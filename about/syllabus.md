@@ -1,4 +1,4 @@
-![](../images/header.png)
+![](../images/header.jpg)
 
 ![](../images/UBCO_CMPS_header.jpg)
 

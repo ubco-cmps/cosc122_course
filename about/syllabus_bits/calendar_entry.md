@@ -1,15 +1,14 @@
 **{{ COURSE_CODE }} ({{ CREDITS }}) {{ TITLE }}**
 
-The [UBCO calendar description](https://www.calendar.ubc.ca/okanagan/courses.cfm?code=PHYS) of this course is: 
+The [UBCO calendar description](https://www.calendar.ubc.ca/okanagan/courses.cfm?code=COSC) of this course is: 
 
-> COSC 123 (3) Computer Creativity
+> Introduction to computer skills (electronic communication, websites, Internet, document editing, programming, data analysis using spreadsheets/databases) and concepts (information representation, abstraction, algorithmic thinking).
+> Course objectives are lifelong productivity and understanding of technology in society.[3-2-0]
+>
+> Prerequisite: {{ PREREQS }}.
 > 
-> A hands-on introduction to programming and computer-based problem solving and creativity.
-> Experience with application development including storytelling, graphics, games, and networking. [3-2-0]
-> 
-> Prerequisite: One of COSC 111, COSC 122..
-> 
-> Corequisite: N/A.
+> Corequisite: {{ COREQS }}.
+
 
 ```{warning}
 If there is a lab and/or tutorial listed on the SSC for this course, You **must** register for all course elements without conflicts, otherwise the department will remove you from the course!
