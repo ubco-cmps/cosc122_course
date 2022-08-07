@@ -3,18 +3,32 @@ The grading scheme for this course is:
 | Item             | Weight          | Due date(s)                  |
 |------------------|-----------------|------------------------------|
 | Learning Logs    | 10% (10 x 1%)   | Saturdays at 6 PM            |
-| Class Activities | 15% (10 x 1.5%) | Thursdays at 6 PM            |
-| Labs             | 30% (10 x 3%)   | Fridays at 6 PM              |
-| Tests            | 25% (5 x 5%)    | Thursday 6 PM - Saturday 6PM |
-| Final Exam (TBD) | 20%             | TBD                          |
+| Tests            | 30% (5 x 6%)    | Fridays during class         |
+| Labs             | 40% (10 x 4%)   | Fridays at 6 PM              |
+| Final Exam (TBD) | 20%             | TBD (during the exam period) |
 
+```{caution} 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
-For each of the tests, there will be a bonus test one week later and the better score of the Test-Bonus Test pair will be taken.
+For each of the tests, there will be a bonus test one week later and the better score of the Test-Bonus Test pair will be taken. Tests will be held during class on Friday afternoon during class.
+```
 
 ```{note}
 Important: The maximum mark you can get on each item is 100%. Any available bonus marks are not transferable to other assignments.
 ```
 
+### Lab Attendance
+
+Though we will not be taking attendance in labs, please note that your scheduled weekly lab session is your best opportunity to get 1 on 1 help with a teaching assistant (TA), and to work with your fellow classmates.
+It is very important for you to be disciplined and establish good habits and attend your lab, even if you feel the content is too easy and you don't need extra help.
+In many cases, you may even be able to complete and submit the lab during the assigned lab time. 
+Building a good support network and establishing community is very important in university, so I highly encourage you to come to the lab, work hard, and be social too!
+Some of my best friends today are my lab mates from many years ago when I finished my undergrad!
+
+```{attention}
+Your first opportunity to get help is the lab that you are registered in. Space- and time-permitting, you are also welcome to drop-in on other scheduled labs for additional help, but please note that students who are registered in the lab will get first priority with the TA. You can find the {{ LAB_SCHEDULE_HERE }}.
+```
+
+<!-- 
 ### Other Grading Policies
 
 There is a delicate balance between an instructor being flexible with deadlines, and giving students (particularly in introductory courses) too much freedom, to the detriment of your learning and your work habits.
@@ -84,4 +98,5 @@ There is no limit to the number of resubmissions you are allowed to use, but we 
 
 ```{note}
 Note: The last day to submit resubmissions is the last day of the course. No exceptions!
-```
+``` -->
+

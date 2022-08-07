@@ -3,6 +3,6 @@ We will do our best to follow the plan outlined in this unsyllabus, but in case 
 
 Any major changes to the syllabus (this page) will be documented here, as well as the date the change was made. 
 
-| Change Date    | Summary                               | Rationale                                                                                                                                                       |
-|----------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| March 11, 2022 | Adjusted Content for Weeks 12, 13, 14 | April 10th is the last day of classes and since that's a Monday and our classes are usually on Thursday, that means our class will be in Week 13 of the course. |
+| Change Date | Summary | Rationale |
+|-------------|---------|-----------|
+|             |         |           |

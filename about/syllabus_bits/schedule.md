@@ -1,22 +1,73 @@
 This is the tentative plan for {{ COURSE_CODE }} this term.
 The exact details are subject to change, so this is roughly the plan we will try to follow.
 
-| #  | Week           | Topics                                                                      | Lab | Activity | Logs | Tests                   | Concepts Tested                                                         |
-|----|----------------|-----------------------------------------------------------------------------|-----|----------|------|-------------------------|-------------------------------------------------------------------------|
-| 1  | Jan 10 - 16    | Introduction to COSC 123 <br /> Markdown and Technology Setup               | 1   | 1        | 1    | -                       |                                                                         |
-| 2  | Jan 17 - 23    | Introduction to Terminal <br /> Introduction to Version Control             | 2   | 2        | 2    | Test 0                  | Course Policies                                                         |
-| 3  | Jan 24 - 30    | Introduction to Processing and PDE <br/> Starting with Pixels in Processing | 3   | 3        | 3    | Test 1                  | Command-line, <br/>Version Control (Weeks 1-3)                          |
-| 4  | Jan 31 - Feb 6 | Interactions <br />                                                         | 4   | 4        | 4    | (Bonus Test 1)          |                                                                         |
-| 5  | Feb 7 - 13     | Variables<br />                                                             | 5   | 5        | 5    | Test 2                  | Processing, <br/>Interactions and Variables (Weeks 3-5)                 |
-| 6  | Feb 14 - 20    | Images <br />                                                               | 6   | 6        | 6    | (Bonus Test 2)          |                                                                         |
-| 7  | Feb 21 - 27    | Reading Week (no new material)                                              | -   | -        | -    | -                       |                                                                         |
-| 8  | Feb 28 - Mar 6 | Conditionals <br />                                                         | 8   | 8        | 8    | -                       |                                                                         |
-| 9  | Mar 7 - 13     | Loops <br />                                                                | 9   | 9        | 9    | Test 3                  | Variables, Images, <br/>and Conditionals (Weeks 5-8)                    |
-| 10 | Mar 14 - 20    | Functions <br />                                                            | 10  | 10       | 10   | (Bonus Test 3)          |                                                                         |
-| 11 | Mar 21 - 27    | Object Oriented Programming <br />                                          | 11  | 11       | 11   | Test 4                  | Conditionals, Loops, <br/>Functions (Weeks 8-10)                        |
-| 12 | Mar 28 - Apr 3 | Catch-up week (no new material)                                             | -   | -        | -    | (Bonus Test 4)          |                                                                         |
-| 13 | Apr 4 - 10     | Arrays (Recorded lecture) & Final Exam Prep<br />                           | 13  | 13       | 13   | Test 5 AND Bonus Test 5 | Everything + Object Oriented <br/> Programming and Arrays (Weeks 11-13) |
+
+| #  | Week            | Topics                                      | Lab    | Logs | Tests (Fridays, in person) | Concepts Tested |
+|----|-----------------|---------------------------------------------|--------|------|----------------------------|-----------------|
+| 1  | Sept 6-11       | Introduction to COSC 122 and Course Setup   | Lab 1  | LL1  | Test 0                     | -               |
+| 2  | Sept 12-18      | Filesystems, Markdown, and Terminology      | Lab 2  | LL2  | -                          | -               |
+| 3  | Sept 19-25      | HTML and Debugging                          | Lab 3  | LL3  | Test 1                     | -               |
+| 4  | Sept 26 - Oct 2 | Networking and the internet                 | Lab 4  | LL4  | (Bonus Test 1)             | -               |
+| 5  | Oct 3 - 9       | Microsoft Word and PowerPoint               | Lab 5  | LL5  | Test 2                     | -               |
+| 6  | Oct 10 - 16     | Rest and Catchup <br />(no new material)    | -      | -    | -                          | -               |
+| 7  | Oct 17 - 23     | Algorithmic thinking and Spreadsheets       | Lab 6  | LL6  | (Bonus Test 2)             | -               |
+| 8  | Oct 24 - 30     | Introduction to JavaScript & Decisions      | Lab 7  | LL7  | Test 3                     | -               |
+| 9  | Oct 31 - Nov 6  | Javascript Iterations, Arrays               | Lab 8  | LL8  | (Bonus Test 3)             | -               |
+| 10 | Nov 7 - 13      | Reading week <br />(no new material)        | -      | -    | -                          | -               |
+| 11 | Nov 14 - 20     | Javascript Functions, Events                | Lab 9  | LL9  | Test 4                     | -               |
+| 12 | Nov 21 - 27     | Javascript forms and Databases              | Lab 10 | LL10 | (Bonus Test 4)             | -               |
+| 13 | Nov 28 - Dec 4  | How it works, and the Limits of Computation | Lab 11 | LL11 | Test 5                     | -               |
+| 14 | Dec 5 - Dec 8   | Security and Review of COSC 122             | -      | -    | (Bonus Test 5)             | -               |
 
 ```{note}
 Note that the schedule is subject to change and adjustments depending on the needs of the class, and other pedagogical or logistical restrictions.
 ```
+
+<!-- 
+
+Lecture number online based on stuff Seva sent me
+
+- 1 Introduction to the course.
+- 2 Computer Terminology, Computer Internals and Operation
+
+- 3 Networking and the Internet 
+- 4 HTML
+
+- 5 Debugging Problems 
+- 6 Information Representation (consider cut)
+
+- 7 Computer Organization (consider cut)
+
+- Word Processing Programs 
+- Presentation Programs
+
+- 8 Spreadsheets
+- 9 Algorithmic Thinking
+
+- 10 JavaScript: Basics 
+- 11 JavaScript: Decisions
+
+- 12 JavaScript: Iteration and Arrays 
+- 13 JavaScript: Functions and Events
+
+- 14 JavaScript: Programming Forms
+- 15 Databases (consider cut)
+
+- 15 Database Programs (consider cut)
+- 16 How it works
+
+- 17 Security
+- 20 Computer Fluency Summary
+
+## Not included
+
+- 19 Computer Limits
+
+## Things I want to introduce
+
+- Markdown
+- Filesystems
+- Editing on GitHub (not git)
+- GitHub Pages
+
+-->

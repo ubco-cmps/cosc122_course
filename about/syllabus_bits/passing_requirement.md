@@ -1,5 +1,5 @@
 - All students must satisfy ALL conditions to pass the course:
-    1. Obtain an average grade of at least 50% on the Labs,
+    1. Obtain an average grade of at least 50% on the Lab component,
     1. Obtain an average grade of at least 50% on the Test and Exam components together,
     1. Obtain an average grade of at least 40% on the Final Exam,
     1. Obtain a grade of at least 50% on the whole course. 

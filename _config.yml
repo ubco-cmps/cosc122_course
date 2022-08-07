@@ -70,6 +70,7 @@ sphinx:
       CANVAS_ID: "100274"
       CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID" # {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID)) }}
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
+      LAB_SCHEDULE_HERE: "[Lab Schedule here](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COSC&course=122)"
       ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
       COURSE_LINK: "https://firas.moosvi.com/courses/2022_WT2/cosc122"
       FORUM_LINK: "[Ed Discussion](https://edstem.org/us/courses/XX/discussion/XX)"

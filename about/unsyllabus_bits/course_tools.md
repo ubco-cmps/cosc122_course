@@ -8,7 +8,7 @@ In this course, we will be using the following required learning technologies (p
 - [Ed Discussion](https://edstem.org/privacy)
 - [Gradescope](https://www.gradescope.com/privacy)
 - [GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement)
-- PrairieLearn (Privacy policy not available yet)
+- [PrairieLearn](https://www.prairielearn.com/legal/privacy)
 
 All tools used in the course will be used in a [FIPPA-compliant](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/) manner, with your privacy top of mind. 
 New tools may be added to the course as the need arises, and I will update this section with the appropriate information and make an announcement if a new tool is added midway through a course.
