@@ -45,4 +45,4 @@ jobs:
         chmod 600 ~/.ssh/id_rsa
         pwd
         ls -la
-        rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/courses/$TERM/$COURSE_NAME
+        rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/courses/$COURSE_NAME/$TERM
