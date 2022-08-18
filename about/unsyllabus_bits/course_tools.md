@@ -9,6 +9,7 @@ In this course, we will be using the following required learning technologies (p
 - [Gradescope](https://www.gradescope.com/privacy)
 - [GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement)
 - [PrairieLearn](https://www.prairielearn.com/legal/privacy)
+- [Sli.do](https://www.slido.com/terms?experience_id=1&utm_campaign=_eid-007-control&utm_source=www.slido.com-_ab#privacy-policy)
 
 All tools used in the course will be used in a [FIPPA-compliant](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/) manner, with your privacy top of mind. 
 New tools may be added to the course as the need arises, and I will update this section with the appropriate information and make an announcement if a new tool is added midway through a course.
@@ -17,12 +18,12 @@ New tools may be added to the course as the need arises, and I will update this 
 Even though the tools above are required for this course, if you have a moral or legal objection to my use of these tools, please do reach out to me and we can likely find an acceptable accommodation.
 ```
 
-### Link your Canvas account to Gradescope
-
-You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
+### Link your Canvas account to Gradescope [Required]
 
 On the left sidebar in Canvas, click on Gradescope.
 <img src="../images/GradescopeAccount.gif" width = 100%>
+
+You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
 
 This is **very** important for you to do as it'll be our primary mechanism for delivering you feedback in this course.
 
@@ -41,9 +42,22 @@ In general, please do NOT email questions to the instructor and TAs unless it is
 The Ed Discussion tool is stored on servers outside Canada. When you access this site by clicking on the link through Canvas, you are being transferred to these servers. In order to protect your identity, UBC obfuscates your user ID before it is sent to the site. However, Ed Discussion does require you to create an account on their servers. While Ed Discussion adheres to strict U.S. privacy regulations (FERPA), UBC cannot guarantee security of your private details on servers outside of Canada. Please exercise caution whenever using personal information. You may wish to use a pseudonym to protect your privacy if you have concerns.
 ```
 
+### Download the Sli.do app (Optional)
+
+During classes I will periodically ask questions to students and we will be using [Sli.do](https://sli.do) as our audience response system.
+This interface for Sli.do is very intuitive and it does not require creation of an account.
+You can use Slido on any browser including a laptop, tablet, or mobile device.
+Below is a demo of what you can expect the Slido experience to be like (video credit to [Sli.do](https://www.slido.com/_next/static/media/aedeb61313e69817.mp4)):
+
+<img src="../images/slido.gif">
+
+```{tip}
+It is your choice how you want to interact with the tool, but you can [download the iOS](https://apps.apple.com/ca/app/slido-q-a-and-polling/id954596240) or [download the Android app](https://play.google.com/store/apps/details?id=com.slido.app).
+```
+
 ### What type of information will I collect about you in this course?
 
-Having taught [DSCI 541: Privacy, Ethics, and Security](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec) in the UBC Master of Data Science in the past, I am very aware of the surveillance culture that has permeated our society and heralded the [End of Privacy](https://www.youtube.com/watch?v=NesTWiKfpD0) as we know it.
+Having taught [DSCI 541: Privacy, Ethics, and Security](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec) in the        BC Master of Data Science in the past, I am very aware of the surveillance culture that has permeated our society and heralded the [End of Privacy](https://www.youtube.com/watch?v=NesTWiKfpD0) as we know it.
 That being said, as an instructor, I care tremendously about your learning and the course-related data that is collected about you is extremely valuable. 
 Broadly speaking, this relatively new field is called **Learning Analytics**.
 [Learning Analytics](https://www.solaresearch.org/about/what-is-learning-analytics/) involves the collection and analysis of data about learners for the [express purpose](https://www.collinsdictionary.com/dictionary/english/the-express-purpose-of) of improving their learning by optimizing teaching and learning practices.
