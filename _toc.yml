@@ -1,15 +1,10 @@
 format: jb-book
-root: about/unsyllabus
+root: about/pre_term
 title: Course Unsyllabus
-# parts:
-
-# - caption: Final Exam Details
-#   chapters:
-#   - file: class/final
-#     title: Final Exam Details
-    
-# - caption: About this course
-#   chapters:
+parts:
+- caption: About this course
+  chapters:
+    - file: about/unsyllabus
 #   - file: about/course_schedule
 #     title: Course Schedule
 #   - url: https://edstem.org/us/join/YeFqS6
@@ -258,6 +253,11 @@ title: Course Unsyllabus
 #     - file: class/week13/test
 #     - file: class/week13/learninglog
 
+# - caption: Final Exam Details
+#   chapters:
+#   - file: class/final
+#     title: Final Exam Details
+
 # - caption: GitHub Classroom Links
 #   chapters:
 #   - file: class/links
@@ -266,3 +266,4 @@ title: Course Unsyllabus
 #   chapters:
 #   - file: about/feedback
 #     title: Anonymous Feedback Form
+
