@@ -8,7 +8,7 @@ The exact details are subject to change, so this is roughly the plan we will try
 | 2  | Sept 12-18      | Filesystems, Markdown, and Terminology    | Lab 2  | LL2  | Test 1                     | -               |
 | 3  | Sept 19-25      | HTML and Debugging                        | Lab 3  | LL3  | (Bonus Test 1)             | -               |
 | 4  | Sept 26 - Oct 2 | Networking and the internet               | Lab 4  | LL4  | -                          | -               |
-| 5  | Oct 3 - 9       | Microsoft Word, PowerPoint, Excel         | Lab 5  | LL5  | Test 2                     | -               |
+| 5  | Oct 3 - 9       | Microsoft Word, PowerPoint                | Lab 5  | LL5  | Test 2                     | -               |
 | 6  | Oct 10 - 16     | Rest and Catchup <br />(no new material)  | -      | -    | -                          | -               |
 | 7  | Oct 17 - 23     | Algorithmic thinking and Spreadsheets     | Lab 6  | LL6  | (Bonus Test 2)             | -               |
 | 8  | Oct 24 - 30     | Introduction to JavaScript & Decisions    | Lab 7  | LL7  | Test 3                     | -               |
@@ -69,5 +69,20 @@ Lecture number online based on stuff Seva sent me
 - Filesystems
 - Editing on GitHub (not git)
 - GitHub Pages
+
+## Labs prior to me taking over
+
+- Lab 1 - Windows and Internet
+- Lab 2 - Graphics and images
+- Lab 3 - Building a webpage
+- Lab 4 - Word
+- Lab 5 - PowerPoint
+- Lab 6 - Javascript Basics
+- Lab 7 - Javascript Iteration
+- Lab 8 - Javascript Functions and Events
+- Lab 9 - Excel
+- Lab 10 - Access
+- Lab 11 - HTML/Javascript (Bonus)
+- Lab 12 - Javascript Programming (Bonus)
 
 -->

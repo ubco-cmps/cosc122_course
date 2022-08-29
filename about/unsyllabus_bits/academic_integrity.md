@@ -20,7 +20,6 @@ I have tried extremely hard to make this course focused on learning rather than 
 In particular, I hope (and expect) that the following features of the course should eliminate your temptation to cheat or plagiarize:
 
 - {{ GRACE_PERIOD }} grace-period on all due dates and deadlines.
-- Long testing window so you can start the tests whenever you're comfortable.
 - Weekly learning logs, homework and reading reflections to make you think about your learning ([metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/)).
 - Each test has a "bonus test" available one week later; for each test, we will take the better score of the pair.
 - No high-stakes exams (the single largest assessment item is the final exam).
