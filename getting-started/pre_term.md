@@ -104,7 +104,7 @@ If you created a Hypothes.is account, **select this bolded text** and make a com
 ````{dropdown} How do I address my professors at UBCO?
     :class-container: sd-shadow-lg
     :color: primary
-    :name: how_to_address_professors
+    :name: how-to-address-professors
     :open:
 
 ```{tip}
@@ -147,7 +147,7 @@ Even in those cases, unless they tell you otherwise and insist, it's usually wis
 ```{dropdown} What if I cannot be in Kelowna by the start of the term?
     :class-container: sd-shadow-lg
     :color: primary
-    :name: missing_class_start
+    :name: missing-class-start
 
 I understand this is probably a really stressful experience, and there are all sorts of issues with travel delays and visa problems, not to mention the fact that the pandemic is still around. It's definitely not your fault.
 
@@ -157,7 +157,7 @@ I'll do my best to make sure the class is setup so that if some students aren't 
 ```{dropdown} What can I do if my study-permit is delayed and I can't be in Kelowna for the majority of the term?
     :class-container: sd-shadow-lg
     :color: primary
-    :name: missing_term
+    :name: missing-term
 
 Unfortunately, we have been told that we cannot make accommodations for students that cannot be in Kelowna for the term because classes are being held in-person.
 ```
@@ -165,7 +165,7 @@ Unfortunately, we have been told that we cannot make accommodations for students
 ```{dropdown} What are the computer requirements for this course? 
     :class-container: sd-shadow-lg
     :color: primary
-    :name: computer_requirements
+    :name: computer-requirements
 
 Before enrolling in this course, ensure that your laptop meets the minimum requirements:
 
