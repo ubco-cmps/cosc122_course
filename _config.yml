@@ -18,9 +18,9 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  baseurl : "https://firas.moosvi.com/courses/2022_WT2/cosc122"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://firas.moosvi.com/courses/2022_WT1/cosc122"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
-    hypothesis: false
+    hypothesis: true
     utterances:
       repo: "ubco-cmps/cosc122_course"
   extra_footer : |
@@ -32,7 +32,7 @@ html:
 repository: 
   url          : https://github.com/ubco-cmps/cosc122_course
   path_to_book : ""
-  branch       : master
+  branch       : main
 
 sphinx:
   config:
