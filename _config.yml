@@ -21,8 +21,8 @@ html:
   baseurl : "https://firas.moosvi.com/courses/2022_WT1/cosc122"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis: true
-    utterances:
-      repo: "ubco-cmps/cosc122_course"
+    # utterances:
+    #   repo: "ubco-cmps/cosc122_course"
   extra_footer : |
       <div>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"></a>
