@@ -1,5 +1,5 @@
 (page_labintro)=
-Lab and Activity Links
+Lab Links
 =======================
 
 <head>
@@ -39,8 +39,9 @@ Remember that once you've accepted the GitHub Classroom link, the link to your r
 ## Labs
 
 We are using GitHub Classroom to deliver the labs for this course.
-You will first need to create a GitHub account, and then you can accept each lab
-Once the lab is ready, the link wil become active, and you will be able to accept the lab in your GitHub.com account.
+You will first need to create a GitHub account, and then you can accept each lab.
+Once the lab is ready, the link will become active, and you will be able to accept the lab into your GitHub.com account.
+This is the most efficient way to deliver instructions (and code!) to you.
 
 Once you click the link, a repository will automatically be created for you with some starter code.
 You can then work on the lab, make commits, and push them to GitHub as often as you please. 
@@ -48,19 +49,19 @@ Once the deadline and the grace period has passed, you will no longer be able to
 
 | Lab                     | Due Date | Link to Accept                                        |
 |-------------------------|----------|-------------------------------------------------------|
-| [Lab 1](week01/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/dUtXCqtm) |
-| [Lab 2](week02/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/y8ByfEbn) |
-| [Lab 3](week03/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/LFYduWab) |
-| [Lab 4](week04/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/ogg7PYDU) |
-| [Lab 5](week05/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/vTCn19X1) |
-| [Lab 6](week06/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/Dv14Fkfp) |
-| Lab 7                   | -        | -                                                     |
-| [Lab 8](week08/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/Y0RVLrj3) |
-| [Lab 9](week09/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/lbaXcH0u) |
-| [Lab 10](week10/lab.md) |          | [Accept Lab](https://classroom.github.com/a/1S6IPKcp) |
-| [Lab 11](week11/lab.md) |          | [Accept Lab](https://classroom.github.com/a/Rd0bUR5_) |
-| No Lab                  | -        | -                                                     |
-| [Lab 13](week13/lab.md) | -        | [Accept Lab](https://classroom.github.com/a/k82XOmiQ) |
+| [Lab 1](week01/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/e0e0KLfH) |
+| [Lab 2](week02/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/xteRPFXp) |
+| [Lab 3](week03/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/i_hbNhAT) |
+| [Lab 4](week04/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/dxsiuHXb) |
+| [Lab 5](week05/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/pQQk1wZg) |
+| [Lab 6](week06/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/N1jZCloK) |
+| -                       |          | -                                                     |
+| [Lab 7](week08/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/Za4muPr5) |
+| [Lab 8](week09/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/4fp2UQ6Q) |
+| [Lab 9](week10/lab.md)  |          | Accept Lab[](https://classroom.github.com/a/Nyvjq83k) |
+| [Lab 10](week11/lab.md) |          | Accept Lab[](https://classroom.github.com/a/XvEt-zGk) |
+| No Lab                  |          | -                                                     |
+| [Lab 11](week13/lab.md) |          | Accept Lab[](https://classroom.github.com/a/2qCk6rnj) |
 
 ```{tip}
 Remember that once you've accepted the GitHub Classroom link, the link to your repository becomes fixed so you can submit it on Gradescope as many times as you like before the deadline. Each time you submit on Gradescope it will submit your **latest** commit. This is what we will mark, if you make changes to your repository after submitting it on Gradescope, we will not see it unless you re-submit on Gradescope.
