@@ -20,10 +20,10 @@ In this course, we will be using the following required learning technologies (p
 
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
 - [Ed Discussion](https://edstem.org/privacy)
-<!-- - [Gradescope](https://www.gradescope.com/privacy) -->
 - [GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement)
 - [PrairieLearn](https://www.prairielearn.com/legal/privacy)
 - [Sli.do](https://www.slido.com/terms?experience_id=1&utm_campaign=_eid-007-control&utm_source=www.slido.com-_ab#privacy-policy)
+<!-- - [Gradescope](https://www.gradescope.com/privacy) -->
 
 All tools used in the course will be used in a [FIPPA-compliant](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/) manner, with your privacy top of mind. 
 New tools may be added to the course as the need arises, and I will update this section with the appropriate information and make an announcement if a new tool is added midway through a course.
