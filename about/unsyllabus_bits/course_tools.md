@@ -20,7 +20,7 @@ In this course, we will be using the following required learning technologies (p
 
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
 - [Ed Discussion](https://edstem.org/privacy)
-- [Gradescope](https://www.gradescope.com/privacy)
+<!-- - [Gradescope](https://www.gradescope.com/privacy) -->
 - [GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement)
 - [PrairieLearn](https://www.prairielearn.com/legal/privacy)
 - [Sli.do](https://www.slido.com/terms?experience_id=1&utm_campaign=_eid-007-control&utm_source=www.slido.com-_ab#privacy-policy)
@@ -32,6 +32,7 @@ New tools may be added to the course as the need arises, and I will update this 
 Even though the tools above are required for this course, if you have a moral or legal objection to my use of these tools, please do reach out to me and we can likely find an acceptable accommodation.
 ```
 
+<!-- 
 ### Link your Canvas account to Gradescope [Required]
 
 On the left sidebar in Canvas, click on Gradescope.
@@ -40,13 +41,12 @@ On the left sidebar in Canvas, click on Gradescope.
 You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
 
 This is **very** important for you to do as it'll be our primary mechanism for delivering you feedback in this course.
+ -->
 
 ### Sign up for a (free) Ed Discussion account [Required]
 
 In this course, we will be using {{ FORUM_LINK }} for class discussions.
 The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself.
-
-Once you click on Gradescope, within about 12 hours, you will receive an invitation to join {{ FORUM_LINK }} using the email you used for Gradescope.
 
 ```{tip}
 In general, please do NOT email questions to the instructor and TAs unless it is a legitimate emergency (or if you cannot access Ed Discussion). If you do this accidentally, it's okay - we will send you an automated response letting you know that emails will not be answered and you should re-post your question on Ed Discussion.
