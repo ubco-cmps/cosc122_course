@@ -101,4 +101,4 @@ If you created a Hypothes.is account, **select this bolded text** and make a com
 
 ## Frequently asked questions
 
-See the `ref`{page_FAQ} for answers to common questions.
+See the {ref}`page_FAQ` for answers to common questions.
