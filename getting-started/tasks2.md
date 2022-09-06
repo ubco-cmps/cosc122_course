@@ -43,3 +43,7 @@ This is **very** important for you to do as it'll be our primary mechanism for d
 <img src="../images/GradescopeAccount.gif">
 ```
  -->
+
+## Frequently asked questions
+
+See the `ref`{page_FAQ} for answers to common questions.

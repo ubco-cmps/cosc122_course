@@ -12,6 +12,8 @@ parts:
     title: After the first class
   - file: getting-started/tasks3
     title: In the first week
+  - file: getting-started/faq
+    title: Frequently Asked Questions
 #   - file: class/setup/stack
 #     title: Setup Your Machine
 #     sections:

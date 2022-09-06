@@ -32,3 +32,7 @@ It is my intention to establish a "course pattern" where the only thing that cha
 Otherwise, the pattern of videos, homework, class activities, tests, etc. will remain the same.
 Go through the "Sample Week" on the course website to get familiar with the course pattern, and some motivation for why we are doing things this way.
 ```
+
+## Frequently asked questions
+
+See the `ref`{page_FAQ} for answers to common questions.

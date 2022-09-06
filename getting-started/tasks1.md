@@ -43,3 +43,7 @@ Rest, recover, heal from everything you've been through over the last year.
 
 [Photo by A Little & Tiny Man from Pexels](https://www.pexels.com/photo/woman-in-black-hijab-headscarf-walking-on-field-789555/)
 ```
+
+## Frequently asked questions
+
+See the `ref`{page_FAQ} for answers to common questions.
