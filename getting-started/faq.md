@@ -11,7 +11,7 @@
     :name: lab_start
     :open:
 
-Physical labs (and/or Tutorials) will not be start until Week 2 of the course. See the `ref`{page_Course_Schedule} for more information.
+Physical labs (and/or Tutorials) will not start until Week 2 of the course. See the `ref`{page_Course_Schedule} for more information.
 ```
 
 ````{dropdown} How do I address my professors at UBCO?
