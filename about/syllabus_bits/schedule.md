@@ -4,7 +4,7 @@ The exact details are subject to change, so this is roughly the plan we will try
 
 | #  | Week            | Topics                                    | Lab    | Logs | Tests (Fridays, in person) | Concepts Tested |
 |----|-----------------|-------------------------------------------|--------|------|----------------------------|-----------------|
-| 1  | Sept 6-11       | Introduction to COSC 122 and Course Setup | Lab 1  | LL1  | Test 0                     | -               |
+| 1  | Sept 6-11       | Introduction to COSC 122 and Course Setup | Lab 1 (no physical labs)  | LL1  | Test 0                     | -               |
 | 2  | Sept 12-18      | Filesystems, Markdown, and Terminology    | Lab 2  | LL2  | Test 1                     | -               |
 | 3  | Sept 19-25      | HTML and Debugging                        | Lab 3  | LL3  | (Bonus Test 1)             | -               |
 | 4  | Sept 26 - Oct 2 | Networking and the internet               | Lab 4  | LL4  | -                          | -               |

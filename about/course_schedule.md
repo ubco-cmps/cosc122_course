@@ -9,7 +9,7 @@ This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
 ```{note}
-Labs start in the first week, on January 10th!
+Labs start in the second week of the course!
 ```
 
 ```{attention}
