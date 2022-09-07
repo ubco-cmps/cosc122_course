@@ -7,6 +7,14 @@ General Installation Instructions
     <base target="_blank">
 </head>
 
+As you go through this install guides, remember that perhaps the two most important things you will learn in this course is how to troubleshoot things and achieve familiarity and proficiency with your computer.
+Be patient, read things carefully, do not be afraid to try things, it's unlikely you will do anything to irreversibly break your computer! 
+Almost everything you do (you're on your own if you decide to take a hammer to your laptop!) can be undone, don't be afraid to ask your peers, TAs, and the instructor on {{ FORUM_LINK }}.
+
+This is an exciting time for you as you begin your journey!
+
+## Install the Stack
+
 These instructions will walk you through installing the required Computer Science software stack for {{ COURSE_CODE }}. 
 Before starting, ensure that your laptop meets the minimum system requirements:
 
@@ -94,7 +102,7 @@ You will likely need the Zoom application in this course for student hours with 
 Please note that if you have been relying on the "web version" of Zoom that works only in a browser, this will not work for this course! Please make sure to download the Zoom desktop client for your operating system to fully participate in the course.
 ```
 
-The latest version of Zoom as of September 2022 is: `5.11.6 (9890)`.
+The latest version of Zoom as of Sept 2022 is: `5.11.10 (102279)`. 
 You can ensure you have the latest version of Zoom by clicking "Check for Updates" as shown in the screenshot below.
 
 <img src="images/zoom.png" alt = "Zoom 'Check for Updates' showing the latest version of Zoom is installed."/>
@@ -109,4 +117,3 @@ Your GitHub username is important, here's how to find your username:
 ## That's it!
 
 You have completed the installation instructions, well done 🙌!
-Remember to add a screenshot as instructed in your lab!

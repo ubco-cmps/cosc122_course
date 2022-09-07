@@ -14,13 +14,8 @@ parts:
     title: In the first week
   - file: getting-started/faq
     title: Frequently Asked Questions
-#   - file: class/setup/stack
-#     title: Setup Your Machine
-#     sections:
-#     - file: class/setup/macOS
-#     - file: class/setup/windows
-#     - file: class/setup/ubuntu
-
+  - file: class/setup/general_install
+    title: Setup Your Machine
 
 - caption: About this course
   chapters:
@@ -268,8 +263,8 @@ parts:
 #   chapters:
 #   - file: class/links
 #     title: Lab and Activity Links
-# - caption: Course Feedback
-#   chapters:
-#   - file: about/feedback
-#     title: Anonymous Feedback Form
 
+- caption: Course Feedback
+  chapters:
+  - file: about/feedback
+    title: Anonymous Feedback Form
