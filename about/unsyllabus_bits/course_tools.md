@@ -23,6 +23,7 @@ In this course, we will be using the following required learning technologies (p
 - [GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement)
 - [PrairieLearn](https://www.prairielearn.com/legal/privacy)
 - [Sli.do](https://www.slido.com/terms?experience_id=1&utm_campaign=_eid-007-control&utm_source=www.slido.com-_ab#privacy-policy)
+- [Hypothes.is (Optional)](https://web.hypothes.is/privacy/)
 <!-- - [Gradescope](https://www.gradescope.com/privacy) -->
 
 All tools used in the course will be used in a [FIPPA-compliant](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/) manner, with your privacy top of mind. 
@@ -63,15 +64,50 @@ This interface for Sli.do is very intuitive and it does not require creation of 
 You can use Slido on any browser including a laptop, tablet, or mobile device.
 Below is a demo of what you can expect the Slido experience to be like (video credit to [Sli.do](https://www.slido.com/_next/static/media/aedeb61313e69817.mp4)):
 
-<img src="../images/slido.gif">
+```{figure} ../images/slido.gif
+---
+height: 450px
+name: slido
+---
+Gif showing you how we will use Slido.
+```
 
 ```{tip}
 It is your choice how you want to interact with the tool, but you can [download the iOS](https://apps.apple.com/ca/app/slido-q-a-and-polling/id954596240) or [download the Android app](https://play.google.com/store/apps/details?id=com.slido.app).
 ```
 
+### Sign up for a Hypothesis Account (Optional)
+
+There's a really awesome tool called [hypothes.is](https://hypothes.is) - when enabled, it allows anyone to highlight and comment on any website.
+I have turned this feature on for our unsyllabus because I want to know what you think of the unsyllabus in our course!
+Yes, it's *our* course, we're in this together and there are some opportunities for you to determine how we do things in this course.
+I want your thoughts, feedback, and opinions on how you want the course to go this term.
+Similarly, if you have any questions about any part of the unsyllabus, the best place to ask it is right in the document itself.
+If you have a good idea for a change to the unsyllabus - I'd love to hear them, and even adopt them if they fit within the goals of the course.
+I strongly believe that you are now in charge of your own education, and I am just a guide to help point you in the right direction!
+
+Here's an animated gif of how to annotate (you'll need to sign up for a free account):
+
+```{figure} ../images/hypothesis.gif
+---
+height: 450px
+name: hypothesis
+---
+Gif showing you how to annotate using hypothesis.
+```
+
+This is an experiment, and I encourage you to make comments and highlights on our unsyllabus.
+Let's see how it goes!
+Remember that your classmates will be able to see your comments too, so feel free to interact with them on here as well - we're in this together.
+Don't be shy, but please also be respectful and courteous.
+
+```{warning}
+The Hypothes.is web annotation tool stores data that it collects on servers outside Canada. When you access or use this site through Canvas, you are being transferred to these servers. However, none of your course work information is shared with Hypothes.is. Though Hypothes.is requires you to create an account on their servers, but it is **not** necessary for you to use your real name or email address because UBC cannot guarantee security of your private details on servers outside of Canada. You may wish to use a pseudonym to protect your privacy if you have concerns. Please exercise caution whenever giving away your personal information.
+```
+
 ### What type of information will I collect about you in this course?
 
-Having taught [DSCI 541: Privacy, Ethics, and Security](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec) in the        BC Master of Data Science in the past, I am very aware of the surveillance culture that has permeated our society and heralded the [End of Privacy](https://www.youtube.com/watch?v=NesTWiKfpD0) as we know it.
+Having taught [DSCI 541: Privacy, Ethics, and Security](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec) in the UBC Master of Data Science in the past, I am very aware of the surveillance culture that has permeated our society and heralded the [End of Privacy](https://www.youtube.com/watch?v=NesTWiKfpD0) as we know it.
 That being said, as an instructor, I care tremendously about your learning and the course-related data that is collected about you is extremely valuable. 
 Broadly speaking, this relatively new field is called **Learning Analytics**.
 [Learning Analytics](https://www.solaresearch.org/about/what-is-learning-analytics/) involves the collection and analysis of data about learners for the [express purpose](https://www.collinsdictionary.com/dictionary/english/the-express-purpose-of) of improving their learning by optimizing teaching and learning practices.
