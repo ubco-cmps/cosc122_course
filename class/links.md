@@ -1,5 +1,5 @@
 (page_labintro)=
-Lab Links
+GitHub Classroom Links
 =======================
 
 <head>

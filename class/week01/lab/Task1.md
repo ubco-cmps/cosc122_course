@@ -13,9 +13,9 @@ Once you are done with the install instructions, you can get started with the re
 
 ## Task 1.2: Accept the lab assignment
 
-- You will find the link to accept the lab on Canvas, under "Course Content ▶ GitHub Links".
+- You will find the link to accept the lab on Canvas, under "Course Content ▶ GitHub Classroom Links".
 
-![Animated gif showing you where to find your lab links on Canvas, "Course Content ▶ GitHub Links"](images/accept_activities.gif)
+![Animated gif showing you where to find your lab links on Canvas, "Course Content ▶ GitHub Classroom Links"](images/accept_activities.gif)
 
 Just click on the "Accept Lab" link, and it will take you to the page on GitHub.com where you will complete your lab.
 
