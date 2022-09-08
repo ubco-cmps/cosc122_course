@@ -1,4 +1,4 @@
-# COSC 123 Lab 1
+# Lab 1
 
 Lab 1 of this course has three tasks.
 The first task is [installing the tech stack](https://firas.moosvi.com/courses/2021_WT2/cosc123/notes/setup/stack.html), the second task is practicing Markdown syntax, and the third task is to install Processing on your computer.
@@ -19,24 +19,9 @@ Those same instructions are summarized here in text:
 
 1. Accept the GitHub Classroom assignment for this lab - see "Course Content" on Canvas (if you are reading this, you may have already done this).
 
-1. Clone the assignment to your computer using (remember to use your own unique clone link):
+1. Make changes to your assignment and frequently commit your changes:
 
-```
-git clone https://github.com/demoFiras/lab1.git
-```
-
-1. Make changes to your assignment and frequently add and commit your changes:
-
-```
-git add .
-git commit -m "halfway through Task 1"
-```
-
-1. Push your change to GitHub so they are pushed to the cloud (important if your computer is destroyed in a giant ball of fire).
-
-```
-git push
-```
+1. Commit your change to GitHub.
 
 1. Log in to your Canvas course, and click Gradescope in the left sidebar.
 
@@ -44,8 +29,8 @@ git push
 
 1. If this is your first time using Gradescope, you will need to set a password:
 
-In the confirmation email you received from Gradescope, click the set your password link.
-Enter the same password in the password and password confirmation fields, and click Set Password.
+    In the confirmation email you received from Gradescope, click the set your password link.
+    Enter the same password in the password and password confirmation fields, and click Set Password.
 
 1. You can now access Gradescope through your Canvas course.
 

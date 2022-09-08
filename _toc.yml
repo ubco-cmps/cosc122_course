@@ -28,6 +28,23 @@ parts:
   chapters:
   - file: tools/ed_discussion/ed_discussion
 
+- caption: Part 1 - New Beginnings
+  chapters:
+  - file: class/week01/week01_summary
+    title: Week 1 - Getting Started
+    sections:
+    - file: class/week01/class1A
+    - file: class/week01/class1B
+    - file: class/week01/lab/README
+      title: Lab 1
+      sections:
+        - file: class/week01/lab/Task1
+        - file: class/week01/lab/Task2
+    - file: class/week01/learninglog
+
+
+
+
 # - caption: Part 1 - New Beginnings
 #   chapters:
 #   - file: class/week01/week01_summary

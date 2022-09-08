@@ -1,9 +1,7 @@
 # Learning Logs
 
-````{card}
+```{card} Learning Log
+:link: https://ca.prairielearn.com/pl/course_instance/2468/assessments
 
-This week's learning log assignment will be posted on Gradescope at the end of the week:
-```{button-link} https://www.gradescope.ca/courses/5934
-Learning Log #11
+Click here to access the Learning Log for this week
 ```
-````

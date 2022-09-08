@@ -1,11 +1,7 @@
 # Learning Logs
 
-This week's learning log assignment will be posted on Canvas next week:
+```{card} Learning Log
+:link: https://ca.prairielearn.com/pl/course_instance/2468/assessments
 
-````{card}
-
-This week's learning log assignment will be posted on Gradescope at the end of the week:
-```{button-link} https://canvas.ubc.ca/courses/64279/quizzes/313972
-Learning Log 2
+Click here to access the Learning Log for this week
 ```
-````
