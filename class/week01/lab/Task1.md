@@ -29,7 +29,7 @@ You're done Task 1, onwards to [Task 2](./Task2.md)!
 ## Specifications
 
 Remember that we are using a "Specifications Grading" system for the labs in this course.
-[More details are available in the Unsyllabus]https://firas.moosvi.com/courses/cosc122/2022_WT1/unsyllabus.html#specifications)
+[More details are available in the Unsyllabus](https://firas.moosvi.com/courses/cosc122/2022_WT1/about/unsyllabus.html#specifications-grading)
 
 For this task, the specifications are:
 
