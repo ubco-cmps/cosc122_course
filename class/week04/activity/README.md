@@ -11,13 +11,13 @@ For each task, **embed a screenshot of your drawing** in the Task that is genera
 
 ## General Submission Instructions
 
-Once you are done with this assignment, **you will need to submit your repository for grading on Gradescope**.
+Once you are done with this assignment, **you will need to submit your repository for grading on PrairieLearn**.
 
-**NOTE: If you make any changes to your GitHub repository, you MUST re-submit on Gradescope to make sure we grade the latest version of your repository. You may submit on Gradescope as many times as you like.**
+**NOTE: If you make any changes to your GitHub repository, you MUST re-submit on PrairieLearn to make sure we grade the latest version of your repository. You may submit on PrairieLearn as many times as you like.**
 
-I have recorded a video with some instructions on how to submit your lab on Gradescope:
+I have recorded a video with some instructions on how to submit your lab on PrairieLearn:
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570761775?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Submitting your GitHub Classroom assignment via Gradescope"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570761775?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Submitting your GitHub Classroom assignment via PrairieLearn"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 [Click here to view the video in a new browser window](https://vimeo.com/570761775).
 
@@ -44,15 +44,15 @@ git commit -m "halfway through Task 1"
 git push
 ```
 
-1. Log in to your Canvas course, and click Gradescope in the left sidebar.
+1. Log in to your Canvas course, and click PrairieLearn in the left sidebar.
 
-1. In Gradescope, select the assignment you want to submit to.
+1. In PrairieLearn, select the assignment you want to submit to.
 
-1. You should find the repository and submit it to Gradescope.
+1. You should find the repository and submit it to PrairieLearn.
 
-1. Gradescope will email you a confirmation of your submitted work, with a link to the submission.
+1. PrairieLearn will email you a confirmation of your submitted work, with a link to the submission.
 
-Note: If you make any future commits to this repository, you will need to re-submit on Gradescope.
+Note: If you make any future commits to this repository, you will need to re-submit on PrairieLearn.
 
 You are all done with this assignment!
 
@@ -60,13 +60,13 @@ Congratulations!
 
 ## General Submission Instructions
 
-Once you are done with this assignment, **you will need to submit your repository for grading on Gradescope**.
+Once you are done with this assignment, **you will need to submit your repository for grading on PrairieLearn**.
 
-**NOTE: If you make any changes to your GitHub repository, you MUST re-submit on Gradescope to make sure we grade the latest version of your repository. You may submit on Gradescope as many times as you like.**
+**NOTE: If you make any changes to your GitHub repository, you MUST re-submit on PrairieLearn to make sure we grade the latest version of your repository. You may submit on PrairieLearn as many times as you like.**
 
-I have recorded a video with some instructions on how to submit your lab on Gradescope:
+I have recorded a video with some instructions on how to submit your lab on PrairieLearn:
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570761775?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Submitting your GitHub Classroom assignment via Gradescope"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570761775?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Submitting your GitHub Classroom assignment via PrairieLearn"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 [Click here to view the video in a new browser window](https://vimeo.com/570761775).
 
@@ -93,15 +93,15 @@ git commit -m "halfway through Task 1"
 git push
 ```
 
-1. Log in to your Canvas course, and click Gradescope in the left sidebar.
+1. Log in to your Canvas course, and click PrairieLearn in the left sidebar.
 
-1. In Gradescope, select the assignment you want to submit to.
+1. In PrairieLearn, select the assignment you want to submit to.
 
-1. You should find the repository and submit it to Gradescope.
+1. You should find the repository and submit it to PrairieLearn.
 
-1. Gradescope will email you a confirmation of your submitted work, with a link to the submission.
+1. PrairieLearn will email you a confirmation of your submitted work, with a link to the submission.
 
-Note: If you make any future commits to this repository, you will need to re-submit on Gradescope.
+Note: If you make any future commits to this repository, you will need to re-submit on PrairieLearn.
 
 You are all done with this assignment!
 

@@ -91,28 +91,28 @@ Your task is to add markdown elements to this file using VSCode.
     
     If your file is not a png, then be sure to add the appropriate extension.
 
-## Task 1.6 - Submit your assignment on Gradescope
+## Task 1.6 - Submit your assignment on PrairieLearn
 
-1. Log in to your Canvas course, and click Gradescope in the left sidebar.
+1. Log in to your Canvas course, and click PrairieLearn in the left sidebar.
 
-1. You will be enrolled in the course and receive a confirmation email. Gradescope will also open in a new window/tab with your course dashboard and all active assignments.
+1. You will be enrolled in the course and receive a confirmation email. PrairieLearn will also open in a new window/tab with your course dashboard and all active assignments.
 
-1. If this is your first time using Gradescope, you will need to set a password:
+1. If this is your first time using PrairieLearn, you will need to set a password:
 
-In the confirmation email you received from Gradescope, click the set your password link.
+In the confirmation email you received from PrairieLearn, click the set your password link.
 Enter the same password in the password and password confirmation fields, and click Set Password.
 
-1. You can now access Gradescope through your Canvas course.
+1. You can now access PrairieLearn through your Canvas course.
 
-1. When in Gradescope, click the course and you will see a list of assignments. Select the assignment you want to submit.
+1. When in PrairieLearn, click the course and you will see a list of assignments. Select the assignment you want to submit.
 
-1. The first time you do this, you may need to sync your GitHub account with Gradescope, and GRANT permission to our GitHub organization.
+1. The first time you do this, you may need to sync your GitHub account with PrairieLearn, and GRANT permission to our GitHub organization.
 
-1. Once you log in and link your GitHub account, you should find the repository and submit it to Gradescope.
+1. Once you log in and link your GitHub account, you should find the repository and submit it to PrairieLearn.
 
-1. Gradescope will email you a confirmation of your submitted work, with a link to the submission.
+1. PrairieLearn will email you a confirmation of your submitted work, with a link to the submission.
 
-Note: If you make any future commits to this repository, you will need to re-submit on Gradescope.
+Note: If you make any future commits to this repository, you will need to re-submit on PrairieLearn.
 
 You are all done with this assignment!
 

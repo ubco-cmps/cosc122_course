@@ -51,7 +51,7 @@ Below are the full final exam instructions. I am sharing these with you so you c
 The first part of the COSC 123 exam is multiple-choice (similar to the questions on your Tests) and should be completed on PrairieLearn.
 There will be no questions on this part requiring you to write any code.
 
-## Part 2. Coding Portion using GitHub and submitting on Gradescope (70 Marks)
+## Part 2. Coding Portion using GitHub and submitting on PrairieLearn (70 Marks)
 
 The second part of the exam requires you to clone a GitHub repo to your computer and complete some coding tasks.
 You will be given a link to accept your Final Exam.
@@ -82,15 +82,15 @@ All I ask is that you have at least one commit per question.
 - Q5.pde
 - **ALL** the files in the Q6.pde directory
 
-Any other files will be ignored on Gradescope, and will not be graded WITH NO EXCEPTIONS.
+Any other files will be ignored on PrairieLearn, and will not be graded WITH NO EXCEPTIONS.
 
 **THE QUESTION INSTRUCTIONS BELOW ARE REPEATED IN THE FOLDER FOR EACH QUESTION.**
 
 ... details of the Coding Tasks ...
 
-## Part 3. Course Reflection on Gradescope (20 marks)
+## Part 3. Course Reflection on PrairieLearn (20 marks)
 
-The last part of the final exam requires you to answer some reflection questions on Gradescope.
+The last part of the final exam requires you to answer some reflection questions on PrairieLearn.
 These questions were shared with you a few days before the final exam.
 You are encouraged to bring prepared answers to these questions.
 
@@ -98,7 +98,7 @@ Here are the questions on the course reflection:
 
 ### Q7 Final Course and Exam Reflection
 
-This question should only be done after you have completed all the Tasks in the Final Exam, it needs to be submitted separately in this Gradescope assignment.
+This question should only be done after you have completed all the Tasks in the Final Exam, it needs to be submitted separately in this PrairieLearn assignment.
 
 #### 7.1.1 Final Exam Deserved Grade (1)
 

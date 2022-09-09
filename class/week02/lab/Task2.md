@@ -103,7 +103,7 @@ git commit -m "Added my dungeon history"
 git push
 ```
 
-#### 4. Submit your GitHub repo on Gradescope
+#### 4. Submit your GitHub repo on PrairieLearn
 
 You're done! 
 

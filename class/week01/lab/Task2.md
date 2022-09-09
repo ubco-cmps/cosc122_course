@@ -133,7 +133,7 @@ For this task, the specifications are:
 - Use the VS Code web editor to complete all items in Task 2.
 - Create an `activty.md` file in the repository at the correct location (root of repository).
 - Use all of the markdown syntax described in 2.2 in your `activity.md` file.
-- Submit your lab correctly on Gradescope.
+- Submit your lab correctly on PrairieLearn.
 
 Remember that though each task has separate specifications, you will only get **one** combined grade for each lab (E,G,R or I).
 You will get feedback for each of the tasks separately.

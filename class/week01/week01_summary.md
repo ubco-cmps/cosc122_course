@@ -17,8 +17,8 @@ You can find the {{ ZOOM_LINK.replace('CANVAS_ID',CANVAS_ID) }} link here.
 
 <label><input type="checkbox" id="week01_task4" class="box"> **Attend Class 1A and 1B on {{ ZOOM_LINK.replace('CANVAS_ID',CANVAS_ID) }}** </input></label>
 
-<label><input type="checkbox" id="week01_task5" class="box"> **[Complete Activity 1 and submit it on Gradescope](./activity01/README.md)** </input></label>
+<label><input type="checkbox" id="week01_task5" class="box"> **[Complete Activity 1 and submit it on PrairieLearn](./activity01/README.md)** </input></label>
 
-<label><input type="checkbox" id="week01_task6" class="box"> **[Attend your Lab, complete it, and submit it on Gradescope](./lab01/README.md)** </input></label>
+<label><input type="checkbox" id="week01_task6" class="box"> **[Attend your Lab, complete it, and submit it on PrairieLearn](./lab01/README.md)** </input></label>
 
-<label><input type="checkbox" id="week01_task7" class="box"> **[Complete Learning Log 1 on Gradescope]({{ CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID) }})** </input></label>
+<label><input type="checkbox" id="week01_task7" class="box"> **[Complete Learning Log 1 on PrairieLearn]({{ CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID) }})** </input></label>
