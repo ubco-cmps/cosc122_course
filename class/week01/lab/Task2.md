@@ -115,11 +115,9 @@ Once you've committed your changes, the badge with the number of changes on the 
 That's it!
 You are now done Lab 1 - time to submit it.
 
-## Task 2.3: Submit your Lab on Gradescope
+## Task 2.3: Submit your Lab on PrairieLearn
 
-See [the README file](./README.md) on instructions, and a video on how to submit your lab on Gradescope.
-
-**NOTE: If you make any changes to your GitHub repository, you MUST re-submit on Gradescope to make sure we grade the latest version of your repository. You may submit on Gradescope as many times as you like.**
+See [the README file](./README.md) on instructions.
 
 That's it! 
 Nice and easy, lots of new things learned...
