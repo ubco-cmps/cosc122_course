@@ -277,10 +277,10 @@ parts:
 #   - file: class/final
 #     title: Final Exam Details
 
-# - caption: GitHub Classroom Links
-#   chapters:
-#   - file: class/links
-#     title: Lab and Activity Links
+- caption: GitHub Classroom Links
+  chapters:
+  - file: class/links
+    title: Lab and Activity Links
 
 - caption: Course Feedback
   chapters:

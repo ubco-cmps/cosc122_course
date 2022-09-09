@@ -1,5 +1,10 @@
 # Class 1B
 
+## Test 0 
+
+We will do a DRY RUN (not for marks) assessment in class.
+It will take no more than 10 minutes, this is not for marks, just to practice the logistics.
+
 ## Summary of Installation Instructions
 
 Live Demo
