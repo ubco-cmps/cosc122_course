@@ -4,16 +4,17 @@ root: about/unsyllabus
 parts:
 - caption: Getting Started
   chapters:
-  - file: getting-started/pre_term
-    title: Before the term starts
-  - file: getting-started/tasks1
-    title: Before the first class
-  - file: getting-started/tasks2
-    title: After the first class
-  - file: getting-started/tasks3
-    title: In the first week
   - file: getting-started/faq
     title: Frequently Asked Questions
+    sections:
+    - file: getting-started/pre_term
+      title: Before the term starts
+    - file: getting-started/tasks1
+      title: Before the first class
+    - file: getting-started/tasks2
+      title: After the first class
+    - file: getting-started/tasks3
+      title: In the first week
   - file: class/setup/general_install
     title: Setup Your Machine
 
@@ -23,10 +24,6 @@ parts:
   - file: about/accommodations
   - file: about/doing_well
   - file: about/syllabus
-
-- caption: Tools
-  chapters:
-  - file: tools/ed_discussion/ed_discussion
 
 - caption: Part 1 - New Beginnings
   chapters:
@@ -281,6 +278,10 @@ parts:
   chapters:
   - file: class/links
     title: Lab and Activity Links
+
+- caption: Tools
+  chapters:
+  - file: tools/ed_discussion/ed_discussion
 
 - caption: Course Feedback
   chapters:
