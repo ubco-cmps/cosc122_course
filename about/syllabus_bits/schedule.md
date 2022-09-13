@@ -85,4 +85,17 @@ Lecture number online based on stuff Seva sent me
 - Lab 11 - HTML/Javascript (Bonus)
 - Lab 12 - Javascript Programming (Bonus)
 
+## New Lab structure
+
+- Lab 1 - Markdown and submitting labs
+- Lab 2 - Windows, Mac, and the internet (Lab 1)
+- Lab 3 - Graphics and images (Lab 2)
+- Lab 4 - Building a Web page (formerly Lab 3)
+- Lab 5 - Word (Lab 4) and Powerpoint (Lab 5)
+- Lab 6 - Excel (Lab 9)
+- Lab 7 - Javascript Basics (Lab 6)
+- Lab 8 - Javascript Iteration (Lab 7)
+- Lab 9 - Javascript Functions and Events (Lab 8)
+- Lab 10 - HTML/Javascript (Lab 11)
+- Lab 11 - Javascript Programming
 -->
