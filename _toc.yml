@@ -38,9 +38,17 @@ parts:
         - file: class/week01/lab/Task1
         - file: class/week01/lab/Task2
     - file: class/week01/learninglog
-
-
-
+  - file: class/week02/week02_summary
+    title: Week 2 - Getting Started
+    sections:
+    - file: class/week02/readings
+    - file: class/week02/classes
+    # - file: class/week01/lab/README
+    #   title: Lab 1
+    #   sections:
+    #     - file: class/week01/lab/Task1
+    #     - file: class/week01/lab/Task2
+    # - file: class/week01/learninglog
 
 # - caption: Part 1 - New Beginnings
 #   chapters:
