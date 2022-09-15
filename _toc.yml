@@ -32,23 +32,19 @@ parts:
     sections:
     - file: class/week01/class1A
     - file: class/week01/class1B
-    - file: class/week01/lab/README
-      title: Lab 1
-      sections:
-        - file: class/week01/lab/Task1
-        - file: class/week01/lab/Task2
     - file: class/week01/learninglog
   - file: class/week02/week02_summary
     title: Week 2 - Getting Started
     sections:
     - file: class/week02/readings
     - file: class/week02/classes
-    # - file: class/week01/lab/README
-    #   title: Lab 1
-    #   sections:
-    #     - file: class/week01/lab/Task1
-    #     - file: class/week01/lab/Task2
-    # - file: class/week01/learninglog
+    - file: class/week01/lab/README
+      title: Lab 1
+      sections:
+        - file: class/week01/lab/Task1
+        - file: class/week01/lab/Task2
+    - file: class/week02/test
+    - file: class/week01/learninglog
 
 # - caption: Part 1 - New Beginnings
 #   chapters:

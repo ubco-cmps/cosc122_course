@@ -1,13 +1,13 @@
 # Week 2 Classes
 
-## [Tuesday](https://github.com/ubco-cmps/cosc122_course/raw/main/files/Class2A.pdf)
+## [Wednesday](https://github.com/ubco-cmps/cosc122_course/raw/main/files/Class2A.pdf)
 
 
 <iframe src="../../Class2A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-## Thursday
+## Friday
 
-On Thursday we will have our first Test!
+On Friday we will have our first Test!
 
 The test will cover everything we've covered in Week 1 and 2, including:
 
