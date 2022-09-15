@@ -2,11 +2,22 @@
 
 This week we will have our first Test!
 
+```{card} Test 1
+:link: https://ca.prairielearn.com/pl/course_instance/2468/assessments
+
 The test will cover everything we've covered in Week 1 and 2, including:
 
 - Markdown Syntax (60%)
 - Contents of Tuesday's class (20%)
 - Course logistics (20%)
+
+Remember that Test 1 will be available starting during class on Friday, and you need to be present in class to take the test, unless prior arrangements have been made with me.
+You will have 45 minutes to complete the test.
+
+Click here to access the Test.
+```
+
+
 
 ## Test Rules 
 
