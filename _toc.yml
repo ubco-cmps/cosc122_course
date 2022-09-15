@@ -44,7 +44,7 @@ parts:
         - file: class/week01/lab/Task1
         - file: class/week01/lab/Task2
     - file: class/week02/test
-    - file: class/week01/learninglog
+    - file: class/week02/learninglog
 
 # - caption: Part 1 - New Beginnings
 #   chapters:
