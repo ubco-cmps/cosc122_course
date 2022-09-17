@@ -17,8 +17,6 @@ You will have 45 minutes to complete the test.
 Click here to access the Test.
 ```
 
-
-
 ## Test Rules 
 
 Here are the test rules, read them carefully!

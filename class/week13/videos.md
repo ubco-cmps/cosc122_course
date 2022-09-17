@@ -1,5 +1,7 @@
 # Videos
 
+**Note: There are no videos available for COSC 122 yet!**
+
 Below are the assigned videos for this week. 
 The videos are collapsible so once you're done with one, you can move to the next one.
 In the sidebar on the right, you can use the checklists to keep track of what's done.
