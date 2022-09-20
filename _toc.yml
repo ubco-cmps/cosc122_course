@@ -41,8 +41,8 @@ parts:
     - file: class/week01/lab/README
       title: Lab 1
       sections:
-        - file: class/week01/lab/Task1
-        - file: class/week01/lab/Task2
+        - file: class/week02/lab/Task1
+        - file: class/week02/lab/Task2
     - file: class/week02/test
     - file: class/week02/learninglog
   - file: class/week03/week03_summary
@@ -55,6 +55,8 @@ parts:
       sections:
         - file: class/week03/lab/Task1
         - file: class/week03/lab/Task2
+        - file: class/week03/lab/Task3
+        - file: class/week03/lab/Task4
     - file: class/week03/test
     - file: class/week03/learninglog
 

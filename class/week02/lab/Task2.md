@@ -1,114 +1,139 @@
-# Task 2 - BashCrawl
+# Task 2 - Learning Markdown
 
-This activity is a really fun way to learn how to use some of the Terminal commands you will need to know.
-Have fun with it, and try not to take it too seriously - you don't need to beat the whole game, just keep playing till you stop learning or having fun!
-Much of the information in the game is beyond the scope of this course, so take what you can get out of it and use your judgement.
+At this point, you should have accepted your lab, and have a browser open on your lab repository on GitHub.com.
+We will be doing most of this course within a web browser, using the Visual Studio Code (VS Code for short) web editor.
 
-## Objectives
+See Task 2.1 on how to activate the VS Code web editor.
 
-- Practice with Terminal interfaces
-- Create and navigate directories
-- Create, modify, rename and delete files
-- Practice Git fundamentals (add, commit, push)
+## Task 2.1: Activate the VS Code web editor
 
-## Instructions
+To activate the VS Code web editor, simply navigate to your lab repository, and press the `.` key on your keyboard.
+Here is an animated gif of what you should expect (note the contents may look different, but the general gist of activating the web editor is the same for any course):
 
-I have recorded a video to get you started with this lab: [Click here to view the video](https://vimeo.com/570825537).
+![Animated gif demonstrating how to activate the Visual Studio Code web editor by pressing the `.` key on your keyboard and waiting a few seconds while a web editor launches.](images/GitHub_activate_VS.gif)
 
-<div style="padding:55.42% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570825537?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:250%;height:250%;" title="Data 301 Lab Introduction - BashCrawl"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+## Task 2.2: Create a new file
 
-## BashCrawl
+Right click on the sidebar, and click "New File".
+This will prompt you to enter in a name for the new file.
+Enter in the name `activity.md` and then press Enter.
+This will create a new file called `activity.md` ; the bit after the `.` is called the "file extension".
+We will learn more about file extensions in class. 
 
-Here is a text guide of the first few steps of the game:
+**Once you've created the `activity.md` file, click it on the sidebar to open it - it should be empty and you should see a blinking cursor ready for your content- this is good!**
 
-### Setting up for the game
+## Task 2.2: Practice Markdown Syntax
 
-1. Open a Terminal window.
-2. Change the directory to where this file is: `cd /path/to/this/folder`.
-3. Type `ls` into the Terminal; you will see two things: `README.md` and the `entrance` directory.
-4. Once you go into the `entrance` directory (`cd entrance`), the Terminal-based game will begin!
+### Background 
 
-**Tip: When I say "go into the <BLANK>" room, I mean change directories using `cd <BLANK>`. In this game, a "room" is a "directory".**
+Markdown is a very useful "markup" language that is very popular in Computer Science.
+Usually when you want to create a document, your first instinct is likely to open a Microsoft Word, Google Doc, Pages, LibreOffice Writer etc...
+In any of those word processor or typesetting programs, to add bold text, headings, italics, links, and other formatting you typically need to click buttons or find things in menus.
+This does not make it easy to collect a history of what has happened to every line in your document.
+Markdown strips away all the "frills" of a word processor and helps you focus on just the text.
+There are no fonts in Markdown (there is only one, the default) and you cannot do everything you can in a traditional word processing program (like Microsoft Excel).
+But for 99% of the things that people who code have to write, Markdown is more than sufficient!
 
-### Starting the game
+While you practice with Markdown syntax, it is useful to see a "Preview" of what it will look like.
+Here's the effect of the preview extension you installed in VS Code:
 
-5. Now that you have entered the dungeon `entrance`, you should type `ls` in the terminal to look around and see what's there.
+![](images/md_preview.gif)
 
-6. You will see there are two "things" in this room,  there is a `scroll`, and another room called `cellar`.
+1. Practice adding the following [Markdown elements](https://www.markdownguide.org/cheat-sheet/) into `activity.md`:
 
-7. Let's read the scroll using `cat scroll`.
+- Add a level 1 heading using "#".
+- Add a level 2 heading using "##".
+- Add a level 3 heading using "###".
+- Add a level 4 heading using "####".
 
-**Tip: When I say "read the scroll", I mean output the contents of the scroll file into the Terminal using `cat scroll`.**
+**Remember: You need a space between the `#` and your actual title! Otherwise your heading will not look like a true heading (larger and bolded)**
 
-8. Great! The scroll told us that we can look and see what's in the room using `ls` and move in and out of rooms using `cd <directory>`. Let's go into the cellar: `cd cellar`.
+---
 
-9. Once we're in the `cellar`, let's have a look around: `ls`. You should see an `armoury`, a `scroll`, and some `treasure`.
+- Write a sentence (any sentence) after each of the four headings and sub-headings you created. You can [generate and use random sentences here](https://www.lipsum.com).
 
-10. Let's read the scroll: `cat scroll`. It should tell you about `ls -F`. Here is some more information about `ls -F`:
+**Note: It is generally good practice to add an extra (empty) line after any heading to make it easier to read your document.**
 
-> Display a slash (`/`) immediately after each pathname that is a directory, an asterisk ('*') after each that is executable, an AT sign ('@') after each symbolic link. 
+- Make a single word in one of the sentences you wrote above *italics* by surrounding the word with a `*` (remember to add the `*` on both sides of the word).
+- Make a single word in one of the sentences you wrote above **bold** by surrounding the word with `**` (remember to add the `*` on both sides of the word).
 
-11. That sounds useful, let's do an `ls -F` in the cellar to see what each of the things are. You'll notice that the armoury is another room, the scroll is just a file, and the treasure has a "*" at the end, so it's an executable. Cool! We don't know what to do with the executable yet, but let's try `cat treasure` to see what happens.
+---
 
-12. Mm. Didn't work - okay let's move on and come back to this room later. Let's go into the `armoury` now: `cd armoury` and then `ls -F`.
-
-13. We see another scroll (and a potion, a treasure, and another room)! Let's read the scroll: `cat scroll`.
-
-14. Oooh, we have now learned how to collect `treasure`! Let's do that in the armoury and follow the instructions to keep our treasure (using environment variables).
-
-**Tip: When I say "pick up the `<BLANK>`", I mean run the executable file using `./ <BLANK>`.**
-
-15. It tells us to go back and get the treasure from the cellar! Let's go and do that now with `cd ..`, pick up the treasure from the cellar, and then come back to the armoury.
-
-16. The potion is also something we can "pick up", so let's go ahead and do that. It asks us if you want to drink it: type 'Y' for yes, and anything else for no (like 'n'). Choose an option and see what happens (follow on-screen instructions!)
-
-17. Alright check if there's anything else to do this in room, if not, head to the `chamber` next. Start with `ls -F` and hopefully by now, you know the drill!
-
-18. Have fun! More dungeon rooms will open up as you complete certain tasks, kill certain monsters, and read specific scrolls and tomes. Have fun with it, this is your opportunity to practice your Terminal skills - it sure beats the way I learned Terminal commands (blindly typing in commands in a black box until I got it to do what I wanted!). There is no need to hit **every** room in the dungeon, but do make a concerted effort and you'll likely get most of the marks for this lab.
-
-**Tip: You can ignore a few of the more "advanced" entries of the Tome, including anything related to `tmux` or `gzip`. I say "pick up the <BLANK>", I mean run the executable file using `./ <BLANK>`.**
-
-### What you need to submit for Bashcrawl.
-
-When you're done exploring the dungeon there are several things I want you to do:
-
-#### 1. Commit everything to your repository and push to the cloud:
-
+- Create an unordered list of your favourite fruits:
 ```
-git add .
-git commit -m "Finished playing with the dungeon"
-git push
+- Apple
+- Banana
+- Orange
+- Strawberries
 ```
 
-#### 2. Save the last 250 commands from your Terminal
+**Notice that the list of fruits above are shown as "unordered" bullet points in the Markdown preview window.**
 
-We want to see some serious effort with the dungeon map, so we are asking for the last 250 commands you entered into the Terminal.
-Please open this file and do a quick check to make sure there is no sensitive information in this file (like passwords or private messages).
-If there is, you can simply edit the file or remove that command.
-
-**Note: Just because we're asking for the last 250 commands doesn't mean that we expect you to have 250 commands, you may have less and you may have more. That's fine.**
-
+- Create an ordered list of your favourite subjects amongst the following: Physics, Chemistry, Biology, Math, Computer Science, English, Literature.
 ```
-history -250 > dungeonHistory.txt
-```
-**Note: On Windows, you may not need the `-` to show the last few commands.**
-
-#### 3. Commit the dungeon history to your repository 
-
-Run the following commands in your Terminal:
-
-```
-git add .
-git commit -m "Added my dungeon history"
-git push
+1. Physics
+1. Computer Science
+1. Literature
+1. English
+1. Math
+1. Chemistry
+1. Biology
 ```
 
-#### 4. Submit your GitHub repo on PrairieLearn
+**Notice that you don't have to manually number your list! You can just start each item of your list with `1.` and Markdown will automatically number your list correctly. This makes it super easy to copy/paste list items without having to manually change the order.**
 
-You're done! 
+---
 
-## Attribution
+1. Add a table of your favourite fruits (make sure to have at least 4 rows), their colour, shape, and size using Markdown syntax like this:
 
-The `bashcrawl` game was adapted from `@slackermedia` on GitLab.
-FULL Credit for the game goes to [Seth Kenlon](http://slackermedia.info/about/).
-The link to the game source code is [here](https://gitlab.com/slackermedia/bashcrawl).
+```
+| Fruit | Colour | Shape | Size |
+|-------|--------|-------|------|
+|       |        |       |      |
+|       |        |       |      |
+|       |        |       |      |
+```
+
+---
+
+1. Add a horizontal line using `---`.
+1. Make a word clickable in your document by linking to any external website like this: [link text](https://cbc.ca).
+
+1. Write a line of code "in-line" with a sentence like this: `alert("Hello, World!");` (Note, this code is not going to run (we will talk about this later in the course week), it is only going to be formatted slightly differently so it stands out as code compared to the rest of the text.)
+
+### Commit your changes to GitHub
+
+Once you have made changes to your lab, you will need to "commit" them to your repository.
+
+Look for this "branch" icon on the left sidebar, click it.
+You should add a very quick message to briefly summarizing your change (so you don't forget), and then click the check mark to "commit" the changes to your repository.
+
+<img src="images/branch.png" alt="An icon found on the left sidebar of VS Code that has three circles and lines connecting the circles. This icon usually also has a number on it indicating the number of changed files.">
+
+Once you've committed your changes, the badge with the number of changes on the branch icon will go away, and that means you're free to close your browser and walk away from the computer because all your changes have been saved to the repository.
+
+That's it!
+You are now done Lab 1 - time to submit it.
+
+## Task 2.3: Submit your Lab on PrairieLearn
+
+See [the README file](./README.md) on instructions.
+
+That's it! 
+Nice and easy, lots of new things learned...
+You're all done Lab 1!
+
+## Specifications
+
+Remember that we are using a "Specifications Grading" system for the labs in this course.
+[More details are available in the Unsyllabus]https://firas.moosvi.com/courses/cosc122/2022_WT1/unsyllabus.html#specifications)
+
+For this task, the specifications are:
+
+- Use the VS Code web editor to complete all items in Task 2.
+- Create an `activty.md` file in the repository at the correct location (root of repository).
+- Use all of the markdown syntax described in 2.2 in your `activity.md` file.
+- Submit your lab correctly on PrairieLearn.
+
+Remember that though each task has separate specifications, you will only get **one** combined grade for each lab (E,G,R or I).
+You will get feedback for each of the tasks separately.

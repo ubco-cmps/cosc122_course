@@ -1,40 +1,41 @@
-# Task 1 - Practice Terminal Commands
+# Task 1 - Installation and Setup
 
-For this task, you will be reproducing a particular directory structure with a series of files and folders, similar to what we did in class.
+Welcome to COSC 122!
+Hopefully this ends up being one of the most useful courses you take in your undergraduate career.
+Before we get started, there are some things you need to do to setup for some of the upcoming labs.
+We won't be installing *everything* we need for the course quite yet, but this will be almost everything.
 
-## 1.1 - Create Directory Structure
+## Task 1.1: Install Software
 
-The files should be named the same way, but you can leave them empty if you want.
+You should be able to find the installation instructions in [Course Content ▶ Setup ▶ General Installation Instructions here](https://firas.moosvi.com/courses/cosc122/2022_WT1/class/setup/general_install.html).
 
-<img src="images/dir.png" width="350px">
+Once you are done with the install instructions, you can get started with the rest of this Lab.
 
-*Hint: Start by creating a directory called `Task1` in your lab directory, using the command:*
+## Task 1.2: Accept the lab assignment
 
-```
-mkdir Task1
-```
+- You will find the link to accept the lab on Canvas, under "Course Content ▶ GitHub Classroom Links".
 
-If you followed the suggested directory structure, this directory should be here: `~/school/year1/cosc123/activity02-demoFiras/Task1/`
+![Animated gif showing you where to find your lab links on Canvas, "Course Content ▶ GitHub Classroom Links"](images/accept_activities.gif)
 
-You may need the following commands:
+Just click on the "Accept Lab" link, and it will take you to the page on GitHub.com where you will complete your lab.
 
-- [`cd`](https://man7.org/linux/man-pages/man1/cd.1p.html) : change directory
-- [`pwd`](https://man7.org/linux/man-pages/man1/pwd.1.html) : print working directory
-- [`mkdir`](https://man7.org/linux/man-pages/man1/mkdir.1.html): make directory (note the `-p` option)
-- [`ls`](https://man7.org/linux/man-pages/man1/ls.1.html): list directory contents
-- [`touch`](https://man7.org/linux/man-pages/man1/touch.1.html): create an empty file with a specific name
-- `code`/`pico`/`nano`/`vim`: edit the file in a text editor
-
-## 1.2 - Add, commit, and push your changes to GitHub
-
-You are encouraged to commit, add and push intermediate changes in your repository, just remember to add a useful commit message.
-
-```
-git add .
-git commit -m "Finished creating the directory structure."
-git push
+```{important}
+For some labs clicking the link will take you to an intermediate page where you'll be asked to wait till your "repository" is being created. Just be patient for a few seconds, and once it's done you should reload and the repository will be there for you. This whole process shouldn't take longer than 30 seconds.
 ```
 
-**Note: Empty directories will not show up on GitHub.com so each directory must have a file in it (even if it is empty).**
+That's it!
+You're done Task 1, onwards to [Task 2](./Task2.md)!
 
-You are now ready to move on to [Task 2](./Task2)!
+## Specifications
+
+Remember that we are using a "Specifications Grading" system for the labs in this course.
+[More details are available in the Unsyllabus](https://firas.moosvi.com/courses/cosc122/2022_WT1/about/unsyllabus.html#specifications-grading)
+
+For this task, the specifications are:
+
+- Correctly install all of the software you will need,
+- Create all the accounts that you need (UBC student email, GitHub.com, Ed Discussion, PrairieLearn),
+- Accept the lab assignment into your GitHub account.
+
+Remember that though each task has separate specifications, you will only get **one** combined grade for each lab (E,G,R or I).
+You will get feedback for each of the tasks separately.
