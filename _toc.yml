@@ -38,7 +38,7 @@ parts:
     sections:
     - file: class/week02/readings
     - file: class/week02/classes
-    - file: class/week01/lab/README
+    - file: class/week02/lab/README
       title: Lab 1
       sections:
         - file: class/week02/lab/Task1
