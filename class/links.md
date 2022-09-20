@@ -19,19 +19,19 @@ Once the deadline and the grace period has passed, you will no longer be able to
 
 | Week | Lab                     | Link to Accept                                        |
 |------|-------------------------|-------------------------------------------------------|
-| 1    | [Lab 1](week01/lab.md)  | [Accept Lab](https://classroom.github.com/a/e0e0KLfH) |
-| 2    | [Lab 2](week02/lab.md)  | [Accept Lab](https://classroom.github.com/a/xteRPFXp) |
-| 3    | [Lab 3](week03/lab.md)  | Accept Lab[](https://classroom.github.com/a/i_hbNhAT) |
-| 4    | [Lab 4](week04/lab.md)  | Accept Lab[](https://classroom.github.com/a/dxsiuHXb) |
-| 5    | [Lab 5](week05/lab.md)  | Accept Lab[](https://classroom.github.com/a/pQQk1wZg) |
+| 1    | [Lab 1](week01/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/e0e0KLfH) |
+| 2    | [Lab 2](week02/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/xteRPFXp) |
+| 3    | [Lab 3](week03/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/i_hbNhAT) |
+| 4    | [Lab 4](week04/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/dxsiuHXb) |
+| 5    | [Lab 5](week05/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/pQQk1wZg) |
 | 6    | No Lab                  | -                                                     |
-| 7    | [Lab 6](week06/lab.md)  | Accept Lab[](https://classroom.github.com/a/N1jZCloK) |
-| 8    | [Lab 7](week08/lab.md)  | Accept Lab[](https://classroom.github.com/a/Za4muPr5) |
-| 9    | [Lab 8](week09/lab.md)  | Accept Lab[](https://classroom.github.com/a/4fp2UQ6Q) |
+| 7    | [Lab 6](week06/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/N1jZCloK) |
+| 8    | [Lab 7](week08/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/Za4muPr5) |
+| 9    | [Lab 8](week09/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/4fp2UQ6Q) |
 | 10   | No Lab                  | -                                                     |
-| 11   | [Lab 9](week10/lab.md)  | Accept Lab[](https://classroom.github.com/a/Nyvjq83k) |
-| 12   | [Lab 10](week11/lab.md) | Accept Lab[](https://classroom.github.com/a/XvEt-zGk) |
-| 13   | [Lab 11](week13/lab.md) | Accept Lab[](https://classroom.github.com/a/2qCk6rnj) |
+| 11   | [Lab 9](week10/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/Nyvjq83k) |
+| 12   | [Lab 10](week11/lab/README.md) | Accept Lab[](https://classroom.github.com/a/XvEt-zGk) |
+| 13   | [Lab 11](week13/lab/README.md) | Accept Lab[](https://classroom.github.com/a/2qCk6rnj) |
 | 14   | No Lab                  | -                                                     | 
 
 ```{tip}
