@@ -23,6 +23,21 @@ The exact details are subject to change, so this is roughly the plan we will try
 Note that the schedule is subject to change and adjustments depending on the needs of the class, and other pedagogical or logistical restrictions.
 ```
 
+## Test Dates and times
+
+| Test/Bonus Test | Date                 | Time          | Duration   |
+|-----------------|----------------------|---------------|------------|
+| Test 1          | Friday Sept 16, 2022 | 14:05 - 15:20 | 75 minutes |
+| Bonus Test 1    | Friday Sept 23, 2022 | 14:05 - 15:20 | 75 minutes |
+| Test 2          | Friday Oct 7, 2022   | 14:05 - 15:20 | 75 minutes |
+| Bonus Test 2    | Friday Oct 21, 2022  | 14:05 - 15:20 | 75 minutes |
+| Test 3          | Friday Oct 28, 2022  | 14:05 - 15:20 | 75 minutes |
+| Bonus Test 3    | Friday Nov 4, 2022   | 14:05 - 15:20 | 75 minutes |
+| Test 4          | Friday Nov 18, 2022  | 14:05 - 15:20 | 75 minutes |
+| Bonus Test 4    | Friday Nov 25, 2022  | 14:05 - 15:20 | 75 minutes |
+| Test 5          | Friday Dec 2, 2022   | 14:05 - 15:20 | 75 minutes |
+| Bonus Test 5    | TBD                  | TBD           | 75 minutes |
+
 <!-- 
 
 Lecture number online based on stuff Seva sent me
