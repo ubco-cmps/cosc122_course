@@ -60,6 +60,21 @@ parts:
     - file: class/week03/test
     - file: class/week03/learninglog
 
+  - file: class/week04/week04_summary
+    title: Week 4 - HTML and Internet
+    sections:
+    - file: class/week04/readings
+    - file: class/week04/classes
+    - file: class/week04/lab/README
+      title: Lab 3
+      sections:
+        - file: class/week04/lab/Task1
+        - file: class/week04/lab/Task2
+        - file: class/week04/lab/Task3
+        - file: class/week04/lab/Task4
+    - file: class/week04/test
+    - file: class/week04/learninglog
+
 
 # - caption: Final Exam Details
 #   chapters:
