@@ -37,6 +37,8 @@ Note: you may need to use a series of `<br>` tags to add line breaks after your 
 
 It should look something like this:
 
+![](images/task2_sample.png)
+
 That's it! Onwards to Task 3
 
 ## Specifications
