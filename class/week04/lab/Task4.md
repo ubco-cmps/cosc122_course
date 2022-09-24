@@ -16,7 +16,7 @@ The goal is to try to make it look like a postcard.
 
 Something along the lines of this:
 
-![](images/postcard.jpg)
+![](images/ex_postcard.jpg)
 
 Image by [Stefan Schweihofer from Pixabay](https://pixabay.com/users/stux-12364/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1038914).
 
