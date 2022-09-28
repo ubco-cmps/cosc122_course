@@ -1,10 +1,10 @@
 # Week 4 Classes
 
-## [Wednesday](https://github.com/ubco-cmps/cosc122_course/raw/main/files/Class4A.pdf)
+## [Wednesday](https://github.com/ubco-cmps/cosc122_course/raw/main/files/122_04_Internet.pdf)
 
 Class slides will be available soon, in the meantime, you can check the [readings for this week](./readings.md).
 
-<iframe src="../../Class4A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../122_04_Internet.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Friday
 
