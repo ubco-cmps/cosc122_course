@@ -22,10 +22,10 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | 1    | [Lab 1](week02/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/e0e0KLfH) |
 | 2    | [Lab 2](week03/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/xteRPFXp) |
 | 3    | [Lab 3](week04/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/i_hbNhAT) |
-| 4    | [Lab 4](week04/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/dxsiuHXb) |
-| 5    | [Lab 5](week05/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/pQQk1wZg) |
+| 4    | [Lab 4](week05/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/dxsiuHXb) |
+| 5    | [Lab 5](week06/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/pQQk1wZg) |
 | 6    | No Lab                  | -                                                     |
-| 7    | [Lab 6](week06/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/N1jZCloK) |
+| 7    | [Lab 6](week07/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/N1jZCloK) |
 | 8    | [Lab 7](week08/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/Za4muPr5) |
 | 9    | [Lab 8](week09/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/4fp2UQ6Q) |
 | 10   | No Lab                  | -                                                     |
