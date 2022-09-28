@@ -25,6 +25,11 @@ parts:
   - file: about/doing_well
   - file: about/syllabus
 
+- caption: GitHub Classroom Links
+  chapters:
+  - file: class/links
+    title: Lab and Activity Links
+
 - caption: Part 1 - New Beginnings
   chapters:
   - file: class/week01/week01_summary
@@ -80,11 +85,6 @@ parts:
 #   chapters:
 #   - file: class/final
 #     title: Final Exam Details
-
-- caption: GitHub Classroom Links
-  chapters:
-  - file: class/links
-    title: Lab and Activity Links
 
 - caption: Tools
   chapters:
