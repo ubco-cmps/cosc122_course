@@ -3,6 +3,7 @@ We will do our best to follow the plan outlined in this unsyllabus, but in case 
 
 Any major changes to the syllabus (this page) will be documented here, as well as the date the change was made. 
 
-| Change Date   | Summary             | Rationale                                                     |
-|---------------|---------------------|---------------------------------------------------------------|
-| Sept 21, 2022 | Added Test schedule | Just a clarification with a table of test times and durations |
+| Change Date   | Summary                       | Rationale                                                     |
+|---------------|-------------------------------|---------------------------------------------------------------|
+| Sept 21, 2022 | Added Test schedule           | Just a clarification with a table of test times and durations |
+| Sept 28, 2022 | Updated Week 5 and 7 schedule | Spreadsheets was accidentally in the wrong week               |

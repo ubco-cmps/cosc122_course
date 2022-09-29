@@ -8,10 +8,10 @@ The exact details are subject to change, so this is roughly the plan we will try
 | 2  | Sept 12-18      | Filesystems, Markdown, and Terminology    | Lab 2                    | LL2  | Test 1                     | -               |
 | 3  | Sept 19-25      | HTML and Debugging                        | Lab 3                    | LL3  | (Bonus Test 1)             | -               |
 | 4  | Sept 26 - Oct 2 | Networking and the internet               | Lab 4                    | LL4  | -                          | -               |
-| 5  | Oct 3 - 9       | Microsoft Word, PowerPoint                | Lab 5                    | LL5  | Test 2                     | -               |
+| 5  | Oct 3 - 9       | Spreadsheets, Microsoft Word, PowerPoint  | Lab 5                    | LL5  | Test 2                     | -               |
 | 6  | Oct 10 - 16     | Rest and Catchup <br />(no new material)  | -                        | -    | -                          | -               |
-| 7  | Oct 17 - 23     | Algorithmic thinking and Spreadsheets     | Lab 6                    | LL6  | (Bonus Test 2)             | -               |
-| 8  | Oct 24 - 30     | Introduction to JavaScript & Decisions    | Lab 7                    | LL7  | Test 3                     | -               |
+| 7  | Oct 17 - 23     | Algorithmic thinking & Intro to JavaScript| Lab 6                    | LL6  | (Bonus Test 2)             | -               |
+| 8  | Oct 24 - 30     | Decisions                                 | Lab 7                    | LL7  | Test 3                     | -               |
 | 9  | Oct 31 - Nov 6  | Javascript Iterations, Arrays             | Lab 8                    | LL8  | (Bonus Test 3)             | -               |
 | 10 | Nov 7 - 13      | Reading week <br />(no new material)      | -                        | -    | -                          | -               |
 | 11 | Nov 14 - 20     | Javascript Functions, Events              | Lab 9                    | LL9  | Test 4                     | -               |
