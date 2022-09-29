@@ -1,12 +1,7 @@
 # Readings
 
-Note that you should consider the suggested readings as supplementary to the lecture notes and videos.
-They are here if you need an additional resource to reference.
+This is the content you are responsible for knowing during Week 5.
 
-## Suggested Readings
+<iframe src="../../122_05_Spreadsheets.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-This week the readings are listed below:
-
-<label><input type="checkbox" id="week05_reading1" class="box"> **[Curves](https://processing.org/tutorials/curves/)** </input></label>
-
-<label><input type="checkbox" id="week05_reading2" class="box"> **[Review: Interactivity](https://processing.org/tutorials/interactivity/)** </input></label>
+[You can also download the PDF here](https://github.com/ubco-cmps/cosc122_course/raw/main/files/122_05_Spreadsheets.pdf).
