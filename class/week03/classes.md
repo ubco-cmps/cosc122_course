@@ -8,4 +8,4 @@ Class slides will be available soon, in the meantime, you can check the [reading
 
 ## Friday
 
-On Friday we will do Bonus Test 01.
+On Friday we will do [Bonus Test 01](./test.md).

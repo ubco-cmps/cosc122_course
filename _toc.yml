@@ -80,6 +80,41 @@ parts:
     - file: class/week04/test
     - file: class/week04/learninglog
 
+  - file: class/week05/week05_summary
+    title: Week 5 - Spreadsheets, Docs, Presentations
+    sections:
+    - file: class/week05/readings
+    - file: class/week05/classes
+    # - file: class/week05/lab/README
+    #   title: Lab 3
+    #   sections:
+    #     - file: class/week05/lab/Task1
+    #     - file: class/week05/lab/Task2
+    #     - file: class/week05/lab/Task3
+    #     - file: class/week05/lab/Task4
+    - file: class/week05/test
+    - file: class/week05/learninglog
+
+  - file: class/week06/week06_summary
+    title: Week 6 - Fall Reading Week!
+    sections:
+    - file: class/week06/classes
+
+  - file: class/week05/week05_summary
+    title: Week 7 - Introduction to Javascript
+    sections:
+    - file: class/week07/readings
+    - file: class/week07/classes
+    # - file: class/week07/lab/README
+    #   title: Lab 3
+    #   sections:
+    #     - file: class/week07/lab/Task1
+    #     - file: class/week07/lab/Task2
+    #     - file: class/week07/lab/Task3
+    #     - file: class/week07/lab/Task4
+    - file: class/week07/test
+    - file: class/week07/learninglog
+
 
 # - caption: Final Exam Details
 #   chapters:

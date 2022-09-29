@@ -8,4 +8,4 @@ Class slides will be available soon, in the meantime, you can check the [reading
 
 ## Friday
 
-**There is no test this week because Friday is a holiday - there is no class**
+On Friday we will do [Test 2](./test.md).
