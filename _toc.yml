@@ -100,7 +100,7 @@ parts:
     sections:
     - file: class/week06/classes
 
-  - file: class/week05/week05_summary
+  - file: class/week07/week07_summary
     title: Week 7 - Introduction to Javascript
     sections:
     - file: class/week07/readings
