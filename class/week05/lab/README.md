@@ -32,4 +32,4 @@ Congratulations!
 
 ## Attribution
 
-This lab (particularly Tasks 4 and 5) relies upon the excellent work by [FreeCodeCamp.org](https://freecodecamp.org) and in particular, [Dawid Adach](https://dawidadach.com/en/) founder of [MDBootstrap.com](http://MDbootstrap.com]).
+This lab (particularly Tasks 4 and 5) relies upon the excellent work by [FreeCodeCamp.org](https://freecodecamp.org) and in particular, [Dawid Adach](https://dawidadach.com/en/) founder of [MDBootstrap.com](http://MDbootstrap.com).
