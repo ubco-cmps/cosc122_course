@@ -85,13 +85,14 @@ parts:
     sections:
     - file: class/week05/readings
     - file: class/week05/classes
-    # - file: class/week05/lab/README
-    #   title: Lab 3
-    #   sections:
-    #     - file: class/week05/lab/Task1
-    #     - file: class/week05/lab/Task2
-    #     - file: class/week05/lab/Task3
-    #     - file: class/week05/lab/Task4
+    - file: class/week05/lab/README
+      title: Lab 4
+      sections:
+        - file: class/week05/lab/Task1
+        - file: class/week05/lab/Task2
+        - file: class/week05/lab/Task3
+        - file: class/week05/lab/Task4
+        - file: class/week05/lab/Task5
     - file: class/week05/test
     - file: class/week05/learninglog
 
