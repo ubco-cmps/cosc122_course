@@ -95,6 +95,8 @@ parts:
         - file: class/week05/lab/Task5
     - file: class/week05/test
     - file: class/week05/learninglog
+    - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_9AA5Ygn5vAxLXwO
+      title: Mid-course Feedback (Anonymous)
 
   - file: class/week06/week06_summary
     title: Week 6 - Fall Reading Week!
