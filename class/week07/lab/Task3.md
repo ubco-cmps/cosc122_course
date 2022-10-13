@@ -20,7 +20,7 @@ Spreadsheets are very common in accounting and reporting applications.
 - To see all spreadsheet formulas, press **Ctrl** and **~** at same time.  Press **Ctrl** and **~** to go back to the normal view.
 - Pressing the **Ctrl** and **Home** keys at same time will select cell A1.
 
-## Task 1.1 - Data Entry
+## Task 3.1 - Data Entry
 
 Data entry can be performed by typing or copying/cutting/pasting data into a cell or formula bar. The data entered may be a text label, a value, or a formula.
 
@@ -30,7 +30,7 @@ Here's what you need to do for this task:
 
 <img src="images/initial_data.png"/>
 
-## Task 1.2 - Using Formulas
+## Task 3.2 - Using Formulas
 
 Formulas are any expressions that begin with an equal sign ("=").
 The equal sign indicates to the spreadsheet that a calculation must be performed to compute the value of the cell.
@@ -47,7 +47,7 @@ Here's roughly what we're expecting for this task:
 
 <img src="images/after_formulas.png"/>
 
-## Task 1.3 - Standard Formatting
+## Task 3.3 - Standard Formatting
 
 Standard formatting consists of changing font types and sizes, colors, bold, italic, underline, etc., and can be performed like in a word processor using similar menu items and command buttons.
 It is also possible to format cells by selecting them and then selecting the "Format" menu option, then "Format Cells..."
@@ -65,7 +65,7 @@ Here's roughly what we're expecting for this task:
 
 <img src="images/general_formatting.png"/>
 
-## Task 1.4 - Conditional Formatting
+## Task 3.4 - Conditional Formatting
 
 Conditional formatting allows you to change the cell format based on data values.
 
@@ -77,7 +77,7 @@ Here's roughly what we're expecting for this task:
 
 <img src="images/conditional_formatting.png"/>
 
-## Task 1.5 - Developing Charts
+## Task 3.5 - Developing Charts
 
 A chart is a graphical representation of spreadsheet data. A chart is of a particular type (line, bar, etc.) and requires the user to supply data that will be displayed in the chart.
 
@@ -99,7 +99,7 @@ Pie Chart:
 
 <img src="images/pie_chart.png"/>
 
-## Task 1.6 - Saving your file
+## Task 3.6 - Saving your file
 
 And you are almost done!
 
@@ -112,7 +112,7 @@ Here's what you need to do for this task:
 ## Specifications
 
 - Create a spreadsheet and correctly display the data in it.
-- Use formulas to calculate the total and "Net Surplus/Deficit" values as described in Task 1.2.
-- Format the spreadsheet as described in Task 1.3 and Task 1.4.
-- Create two charts as described in Task 1.5.
-- Save your document into the repository and display and format the screenshots in a Markdown file as described in Task 1.6.
+- Use formulas to calculate the total and "Net Surplus/Deficit" values as described in Task 3.2.
+- Format the spreadsheet as described in Task 3.3 and Task 3.4.
+- Create two charts as described in Task 3.5.
+- Save your document into the repository and display and format the screenshots in a Markdown file as described in Task 3.6.
