@@ -5,15 +5,14 @@ This week we will have our first Test!
 ```{card} Bonus Test 2
 :link: https://ca.prairielearn.com/pl/course_instance/2468/assessments
 
-Note that I have shifted the percentages a bit.
-The test will cover everything we've covered in Week 1 and 2, including:
+The test will cover everything we've covered in Week 3 and 4, including:
 
 - Internet and Communications
 - HTML Syntax
 - Week 3 and 4 content
 
 Remember that Test 1 will be available starting during class on Friday, and you need to be present in class to take the test, unless prior arrangements have been made with me.
-You will have 45 minutes to complete the test.
+You will have 75 minutes to complete the test.
 
 Click here to access the Test.
 ```

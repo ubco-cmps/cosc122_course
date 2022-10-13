@@ -108,13 +108,12 @@ parts:
     sections:
     - file: class/week07/readings
     - file: class/week07/classes
-    # - file: class/week07/lab/README
-    #   title: Lab 3
-    #   sections:
-    #     - file: class/week07/lab/Task1
-    #     - file: class/week07/lab/Task2
-    #     - file: class/week07/lab/Task3
-    #     - file: class/week07/lab/Task4
+    - file: class/week07/lab/README
+      title: Lab 5
+      sections:
+        - file: class/week07/lab/Task1
+        - file: class/week07/lab/Task2
+        - file: class/week07/lab/Task3
     - file: class/week07/test
     - file: class/week07/learninglog
 
