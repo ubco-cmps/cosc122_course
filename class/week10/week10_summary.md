@@ -1,4 +1,4 @@
 Week 10
 =======================
 
-To be Updated...
+Fall Reading Break - we'll be back next week!

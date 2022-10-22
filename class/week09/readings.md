@@ -1,9 +1,7 @@
 # Readings
 
-Note that you should consider the suggested readings as supplementary to the lecture notes and videos.
-They are here if you need an additional resource to reference.
+This is the content you are responsible for knowing during Week 9.
 
-## Suggested Readings
+<iframe src="../../122_09_ProgrammingIteration.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-This week the readings are listed below:
-
+[You can also download the PDF here](https://github.com/ubco-cmps/cosc122_course/raw/main/files/122_09_ProgrammingIteration.pdf).

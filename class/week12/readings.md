@@ -1,10 +1,7 @@
 # Readings
 
-Note that you should consider the suggested readings as supplementary to the lecture notes and videos.
-They are here if you need an additional resource to reference.
+This is the content you are responsible for knowing during Week 12.
 
-## Suggested Readings
+<iframe src="../../122_12_Databases_How_it_works.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-Same as last week:
-
-<label><input type="checkbox" id="week12_reading1" class="box"> **[Arrays](https://processing.org/tutorials/arrays/)** </input></label> 
+[You can also download the PDF here](https://github.com/ubco-cmps/cosc122_course/raw/main/files/122_12_Databases_How_it_works.pdf).
