@@ -26,7 +26,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | 5    | Lab 4 Cont'd                   | -                                                     |
 | 6    | No Lab Released                | -                                                     |
 | 7    | [Lab 5](week06/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/pQQk1wZg) |
-| 8    | [Lab 6](week07/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/N1jZCloK) |
+| 8    | [Lab 6](week07/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/N1jZCloK) |
 | 9    | [Lab 7](week08/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/Za4muPr5) |
 | 10   | No Lab                         | -                                                     |
 | 11   | [Lab 8](week09/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/4fp2UQ6Q) |
