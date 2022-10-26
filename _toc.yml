@@ -120,14 +120,14 @@ parts:
     sections:
     - file: class/week08/readings
     # - file: class/week08/classes
-    # - file: class/week08/lab/README
-    #   title: Lab 8
-    #   sections:
-    #     - file: class/week08/lab/Task1
-    #     - file: class/week08/lab/Task2
-    #     - file: class/week08/lab/Task3
-    # - file: class/week08/test
-    # - file: class/week08/learninglog
+    - file: class/week08/lab/README
+      title: Lab 8
+      sections:
+        - file: class/week08/lab/Task1
+        - file: class/week08/lab/Task2
+        - file: class/week08/lab/Task3
+    - file: class/week08/test
+    - file: class/week08/learninglog
 
   - file: class/week09/week09_summary
     title: Week 9 - Iterations and Arrays

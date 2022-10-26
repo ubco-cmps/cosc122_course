@@ -5,14 +5,14 @@ This week we will have a test.
 ```{card} Bonus Test 3
 :link: https://ca.prairielearn.com/pl/course_instance/2468/assessments
 
-The test will cover everything we've covered in Week 3, 4 and 5, including:
+The test will cover everything we've covered in Week 5 and 6, including:
 
-- More HTML Syntax
 - Bootstrap (everything covered in Lab 4)
 - Spreadsheets
-- Week 4 and 5 content
+- Introduction to JavaScript
+- Weeks 5 and 6 content
 
-Remember that Bonus Test 3 will be available starting during class on Friday, and you need to be present in class to take the test, unless prior arrangements have been made with me.
+Remember that Test 3 will be available starting during class on Friday, and you need to be present in class to take the test, unless prior arrangements have been made with me.
 You will have 75 minutes to complete the test.
 
 Click here to access the Test.
