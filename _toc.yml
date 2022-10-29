@@ -134,14 +134,14 @@ parts:
     sections:
     - file: class/week09/readings
     # - file: class/week09/classes
-    # - file: class/week09/lab/README
-    #   title: Lab 8
-    #   sections:
-    #     - file: class/week09/lab/Task1
-    #     - file: class/week09/lab/Task2
-    #     - file: class/week09/lab/Task3
-    # - file: class/week09/test
-    # - file: class/week09/learninglog
+    - file: class/week09/lab/README
+      title: Lab 7
+      sections:
+        - file: class/week09/lab/Task1
+        - file: class/week09/lab/Task2
+        - file: class/week09/lab/Task3
+    - file: class/week09/test
+    - file: class/week09/learninglog
 
   - file: class/week10/week10_summary
     title: Week 10 - Fall Reading Week!
