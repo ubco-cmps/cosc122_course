@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Lab07 - COSC 122 Index page for Task 3</title>
+    </head>
+    <body>
+        <h1>Task 3</h1>
+        <p>The computer will pick a number between 1 and 100 (inclusive).  Your job is to guess that number in as few guesses as possible.  If you take more than 6 guesses, the computer wins!</p>
+        <h2>
+            <script type="text/javascript">
+                // Your name and student number
+
+		        // Declare your variable to store the computer's random number here.
+		        // Declare your array here.
+
+
+		        // This function will generate a random number between minVal and maxVal inclusive.
+		        // Assumption: minVal should be less than or equal to maxVal.
+		        function getRandom(minVal, maxVal) {	
+                    var numberRangeSize = maxVal - minVal;
+                    return Math.floor(Math.random()*numberRangeSize)+minVal;
+                }
+                
+                // Create a random number.
+
+		        // Declare your loop variable here.
+		        // Write your loop that will allow up to six guesses.
+                
+                // for (; ;) 
+                {
+                    // Your code goes here
+
+			        // Determine if the guess is correct, too high, or too low.
+			        if (guess == computerNumber) {	
+                        // Clicked OK=YES
+                        document.write("You win by guessing correctly!  My number was: "+computerNumber);
+                        break;				// This command will exit the loop when the player wins the game - LEAVE IT HERE!
+                    }
+                }
+
+		        // Write out message here
+
+		        // Your code to print out list of guesses
+
+            </script>
+        </h2>
+    </body>
+</html>

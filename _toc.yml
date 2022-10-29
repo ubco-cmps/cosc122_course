@@ -121,7 +121,7 @@ parts:
     - file: class/week08/readings
     # - file: class/week08/classes
     - file: class/week08/lab/README
-      title: Lab 8
+      title: Lab 6
       sections:
         - file: class/week08/lab/Task1
         - file: class/week08/lab/Task2
