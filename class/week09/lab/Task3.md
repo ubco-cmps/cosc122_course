@@ -37,7 +37,7 @@ Here's what you need to do for this task:
 
 - Create a loop that runs 6 times. 
 
-- For each iteration, ask the user the guess a number between 1 and 100 (hint: do not create the variable that stores the user guess inside the loop).
+- For each iteration, ask the user to guess a number between 1 and 100 (hint: do not create the variable that stores the user's guess inside the loop).
 
 - Store the user's guess into one of the array's indexes (hint: you will need to store the first guess in index 0, the second guess in index 1, and so on).
 
@@ -47,7 +47,7 @@ Here's what you need to do for this task:
 
 Here's what you need to do for this task:
 
-- If the user has not guessed after 6 guesses, print a message stating that the computer won and the computer guess into the webpage.
+- If the user has not guessed after 6 guesses, print a message stating that the computer won and the computer's number into the webpage.
 
 - Print all the list of guesses from the user into the webpage, regardless of whether the user or the computer won.
 

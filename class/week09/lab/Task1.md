@@ -11,7 +11,7 @@ Here's what you need to do for this task:
 
 - You will do everything for this task in the <a href="task1/task1.html">task1.html</a> file.
 
-- Copy and paste the JavaScript code you wrote for task 2 of Lab06 into the `task1/task1.html` file. You will add into it for this lab. **Make sure you can reproduce the functionality from the previous lab locally and on GitHub Pages.**
+- Copy and paste the JavaScript code you wrote for task 3 of Lab06 into the `task1/task1.html` file. You will add into it for this lab. **Make sure you can reproduce the functionality from the previous lab locally and on GitHub Pages.**
 
 - Ask the user if they already had their birthday this year with a pop-up prompt screen.
 

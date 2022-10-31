@@ -36,7 +36,7 @@ Here's what you need to do:
 
 - Create a loop that initializes at 1 and runs 10 times (with the 10th time included).
 
-- For each iteration, print the number loop variable number into the document.
+- For each iteration, print the loop variable number into the document.
 
 - Each number should be on separate line.
 
