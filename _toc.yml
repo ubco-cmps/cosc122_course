@@ -133,7 +133,7 @@ parts:
     title: Week 9 - Iterations and Arrays
     sections:
     - file: class/week09/readings
-    # - file: class/week09/classes
+    - file: class/week09/classes
     - file: class/week09/lab/README
       title: Lab 7
       sections:
