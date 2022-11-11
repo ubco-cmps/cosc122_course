@@ -151,12 +151,12 @@ parts:
     sections:
     - file: class/week11/readings
     # - file: class/week11/classes
-    # - file: class/week11/lab/README
-    #   title: Lab 8
-    #   sections:
-    #     - file: class/week11/lab/Task1
-    #     - file: class/week11/lab/Task2
-    #     - file: class/week11/lab/Task3
+    - file: class/week11/lab/README
+      title: Lab 8
+      sections:
+        - file: class/week11/lab/Task1
+        - file: class/week11/lab/Task2
+        - file: class/week11/lab/Task3
     # - file: class/week11/test
     # - file: class/week11/learninglog
 
