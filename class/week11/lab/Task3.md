@@ -29,7 +29,7 @@ Here's what you need to do to complete this task:
 
 Here's roughly what we are expecting of you:
 
-<img src="images/buttons_light.gif" width=20%>
+<img src="images/buttons_light.gif">
 
 ## Specifications
 
