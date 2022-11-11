@@ -29,7 +29,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | 8    | [Lab 6](week08/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/N1jZCloK) |
 | 9    | [Lab 7](week09/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/Za4muPr5) |
 | 10   | No Lab                         | -                                                     |
-| 11   | [Lab 8](week11/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/4fp2UQ6Q) |
+| 11   | [Lab 8](week11/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/4fp2UQ6Q) |
 | 12   | [Lab 9](week12/lab/README.md)  | Accept Lab[](https://classroom.github.com/a/Nyvjq83k) |
 | 13   | [Lab 10 & 11 ](week13/lab/README.md) | Accept Lab[](https://classroom.github.com/a/XvEt-zGk) |
 
