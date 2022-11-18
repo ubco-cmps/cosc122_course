@@ -5,13 +5,14 @@ This week we will have a test.
 ```{card} Test 4
 :link: https://ca.prairielearn.com/pl/course_instance/2468/assessments
 
-The test will cover everything we've covered in Week 7 and 8, including:
+The test will cover everything we've covered in Week 7, 8, and 9 including:
 
 - Algorithmic thinking
 - Making Decisions with Code
 - Javascript syntax
 - Fundamentals of Javascript
 - Conditional Statements
+- Arrays
 - Contents of Weeks 7 and 8
 
 Remember that Test 4 will be available starting during class on Friday, and you need to be present in class to take the test, unless prior arrangements have been made with me.
