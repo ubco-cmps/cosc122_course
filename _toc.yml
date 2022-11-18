@@ -157,7 +157,7 @@ parts:
         - file: class/week11/lab/Task1
         - file: class/week11/lab/Task2
         - file: class/week11/lab/Task3
-    # - file: class/week11/test
+    - file: class/week11/test
     # - file: class/week11/learninglog
 
   - file: class/week12/week12_summary
