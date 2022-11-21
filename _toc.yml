@@ -165,14 +165,12 @@ parts:
     sections:
     - file: class/week12/readings
     # - file: class/week12/classes
-    # - file: class/week12/lab/README
-    #   title: Lab 8
-    #   sections:
-    #     - file: class/week12/lab/Task1
-    #     - file: class/week12/lab/Task2
-    #     - file: class/week12/lab/Task3
-    # - file: class/week12/test
-    # - file: class/week12/learninglog
+    - file: class/week12/lab/README
+      title: Lab 9
+      sections:
+        - file: class/week12/lab/Task1
+    - file: class/week12/test
+    - file: class/week12/learninglog
 
 # - caption: Final Exam Details
 #   chapters:

@@ -12,6 +12,7 @@ The test will cover everything we've covered in Week 7 and 8, including:
 - Javascript syntax
 - Fundamentals of Javascript
 - Conditional Statements
+- Arrays
 - Contents of Weeks 7 and 8
 
 Remember that Bonus Test 4 will be available starting during class on Friday, and you need to be present in class to take the test, unless prior arrangements have been made with me.
