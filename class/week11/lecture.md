@@ -6,6 +6,6 @@
 
 These slides have been adapted for this course and are courtesy of [Dr. Abdallah Mohamed](https://people.ok.ubc.ca/abdalmoh/).
 
-## Lecture activity
+## Friday
 
-Please see the [Lecture Activity page](../links) for the link to accept the GH Classroom repo.
+On Friday you will do [Test 4](./test.md) online.

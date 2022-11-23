@@ -150,7 +150,7 @@ parts:
     title: Week 11 - Functions in Javascript
     sections:
     - file: class/week11/readings
-    # - file: class/week11/classes
+    - file: class/week11/lecture
     - file: class/week11/lab/README
       title: Lab 8
       sections:
@@ -158,19 +158,27 @@ parts:
         - file: class/week11/lab/Task2
         - file: class/week11/lab/Task3
     - file: class/week11/test
-    # - file: class/week11/learninglog
+    - file: class/week11/learninglog
 
   - file: class/week12/week12_summary
-    title: Week 12 - Functions in Javascript
+    title: Week 12 - Databases and how things work
     sections:
     - file: class/week12/readings
-    # - file: class/week12/classes
+    - file: class/week12/lecture
     - file: class/week12/lab/README
       title: Lab 9
       sections:
         - file: class/week12/lab/Task1
     - file: class/week12/test
     - file: class/week12/learninglog
+
+  - file: class/week14/week14_summary
+    title: Week 13 - Security, Privacy, Limitations
+
+  - file: class/week13/week14_summary
+    title: Week 14 - Where to go from here...
+
+
 
 # - caption: Final Exam Details
 #   chapters:
