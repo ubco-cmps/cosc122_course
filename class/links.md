@@ -31,7 +31,9 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | 10   | No Lab                         | -                                                     |
 | 11   | [Lab 8](week11/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/4fp2UQ6Q) |
 | 12   | [Lab 9](week12/lab/README.md)  | [Accept Lab](https://classroom.github.com/a/Nyvjq83k) |
-| 13   | [Lab 10 & 11 ](week13/lab/README.md) | Accept Lab[](https://classroom.github.com/a/XvEt-zGk) |
+| 13   | [Lab 10](week13/lab/README.md) | [Accept Lab](https://classroom.github.com/a/XvEt-zGk) |
+| 13   | [Lab 11](week14/lab/README.md) | Accept Lab[](https://classroom.github.com/a/2qCk6rnj) |
+
 
 ```{tip}
 Remember that once you've accepted the GitHub Classroom link, the link to your repository becomes fixed so once you submit it, you can continue to make changes as many times as you like before the deadline (and even after it), but we may only check the submission made closest to the deadline.
