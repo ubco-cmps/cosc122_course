@@ -172,8 +172,12 @@ parts:
     - file: class/week12/test
     - file: class/week12/learninglog
 
-  - file: class/week14/week14_summary
+  - file: class/week13/week13_summary
     title: Week 13 - Security, Privacy, Limitations
+    - file: class/week12/lecture
+      title: Lab 10
+      sections:
+        - file: class/week13/lab/Task1
 
   - file: class/week13/week14_summary
     title: Week 14 - Where to go from here...
