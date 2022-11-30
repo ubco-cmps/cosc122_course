@@ -176,9 +176,11 @@ parts:
     title: Week 13 - Security, Privacy, Limitations
     sections:
     - file: class/week13/lecture
-      title: Lab 10
+      title: Security and Privacy
       sections:
         - file: class/week13/lab/Task1
+          title: Lab 10
+
 
   # - file: class/week14/week14_summary
   #   title: Week 14 - Where to go from here...
