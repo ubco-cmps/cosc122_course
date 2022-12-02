@@ -169,6 +169,8 @@ parts:
       title: Lab 9
       sections:
         - file: class/week12/lab/Task1
+        - file: class/week12/lab/Task2
+        - file: class/week12/lab/Task3
     - file: class/week12/test
     - file: class/week12/learninglog
 
@@ -176,14 +178,19 @@ parts:
     title: Week 13 - Security, Privacy, Limitations
     sections:
     - file: class/week13/lecture
-      title: Security and Privacy
+    - file: class/week13/lab/README
+      title: Lab 10
       sections:
         - file: class/week13/lab/Task1
-          title: Lab 10
-
-
-  # - file: class/week14/week14_summary
-  #   title: Week 14 - Where to go from here...
+  - file: class/week14/week14_summary
+    title: Week 14 - Where to go from here...
+    sections:
+    - file: class/week14/lecture
+    - file: class/week14/lab/README
+      title: Lab 11
+      sections:
+        - file: class/week14/lab/Task1
+        - file: class/week14/lab/Task2
 
 
 
