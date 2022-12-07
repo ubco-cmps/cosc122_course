@@ -36,7 +36,7 @@ Note that the schedule is subject to change and adjustments depending on the nee
 | Test 4          | Friday Nov 18, 2022  | 14:05 - 15:20 | 75 minutes |
 | Bonus Test 4    | Friday Nov 25, 2022  | 14:05 - 15:20 | 75 minutes |
 | Test 5          | Friday Dec 2, 2022   | 14:05 - 15:20 | 75 minutes |
-| Bonus Test 5    | TBD                  | TBD           | 75 minutes |
+| Bonus Test 5    | Wednesday Dec 6, 2022| 14:05 - 15:20 | 75 minutes |
 
 <!-- 
 

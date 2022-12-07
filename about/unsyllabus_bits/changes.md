@@ -8,3 +8,4 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 | Sept 21, 2022 | Added Test schedule                                      | Just a clarification with a table of test times and durations |
 | Sept 28, 2022 | Updated Week 5 and 7 schedule                            | Spreadsheets was accidentally in the wrong week               |
 | Oct 10, 2022  | Move labs 5 onwards down a week, and merge Lab 10 and 11 | Update Lab schedule after extension of Lab 4                  |
+| Tuesday Dec. 6, 2022  | Updated date for COSC 122 Bonus Test 5 | Term ends on Thursday so Friday class is cancelled. |
