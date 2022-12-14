@@ -40,7 +40,7 @@ Note: Until at least February 7th, all labs will be offered online via Zoom. Att
 Test 1: Git and Command Line & Primitive Shapes in processing (Weeks 0-2)
 
     - Git and GitHub (coding train videos)
-    - Command line ()
+    - Command line
     0. Intro to processing (7)
     1. Pixels (1)
     2. Processing environment (2)
@@ -51,9 +51,9 @@ Test 2: Processing and Interactions (3-4)
 
 Test 3-revised: Loops, Images, Conditionals (6+7)
 
-Test 4-revised: Functions and OOP ()
+Test 4-revised: Functions and OOP
 
-Test 5-revised: Arrays ()
+Test 5-revised: Arrays
 
 Test 4: OOP and Arrays (8-9)
 

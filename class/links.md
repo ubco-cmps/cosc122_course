@@ -6,6 +6,14 @@ GitHub Classroom Links
     <base target="_blank">
 </head>
 
+<!-- 
+## Final Exam
+
+If you are seeing this section show up, it means that things have gone horribly wrong with our final exam so we're switching to a "backup" contingency option. 
+
+You should accept the GitHub link to create your final exam repo here: https://classroom.github.com/a/SHJuKOws - your instructor will give you more instructions as needed.
+ -->
+
 ## Labs
 
 We are using GitHub Classroom to deliver the labs for this course.
