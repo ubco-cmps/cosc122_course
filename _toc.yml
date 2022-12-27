@@ -194,10 +194,10 @@ parts:
 
 
 
-# - caption: Final Exam Details
-#   chapters:
-#   - file: class/final
-#     title: Final Exam Details
+- caption: Final Exam Details
+  chapters:
+  - file: class/final
+    title: Final Exam Details
 
 - caption: Tools
   chapters:
