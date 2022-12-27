@@ -35,7 +35,7 @@ The usual "Test" rules apply to the final exam also:
 
 ## Academic Integrity
 
-You will be expected to uphold the highest standard of academic integrity during your final exam for COSC 123, and all other courses as well.
+You will be expected to uphold the highest standard of academic integrity during your final exam for COSC 122, and all other courses as well.
 As a reminder, here is UBCO's statement on Academic Integrity:
 
 > The academic enterprise is founded on honesty, civility, and integrity.
